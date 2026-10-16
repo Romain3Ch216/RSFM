@@ -1,8 +1,8 @@
 Remote Sensing for Forest Monitoring @ AgroParisTech - 2026 ATHENS week
 =======================================================================
 
-Welcome to the lectures and tutorials on Remote Sensing for Forest Monitoring organized at AgroParisTech
-as part of the 2026 ATHENS week (https://athensnetwork.eu/athens-programme.html).
+Welcome to the lectures and tutorials on **Remote Sensing for Forest Monitoring** organized at **AgroParisTech**
+as part of the **2026 ATHENS week** (https://athensnetwork.eu/athens-programme.html).
 It is under construction, and we expect some bugs and issues. 
 Feel free to send feedback at romain dot thoreau at agroparistech dot fr.
 
@@ -10,9 +10,9 @@ Feel free to send feedback at romain dot thoreau at agroparistech dot fr.
 Learning Objectives
 -------------------
 
-The course will cover theoretical concepts of remote sensing using optical imagery ranging from the
-visible to the short-wavelength infrared (0.4 µm–2.5 µm) with a focus on the practical processing of
-satellite images to detect tree dieback caused by bark beetle infestations.
+The course will cover theoretical concepts of **remote sensing using optical imagery** ranging from the
+visible to the short-wavelength infrared (0.4 µm–2.5 µm) with a focus on the **practical processing of
+satellite images to detect tree dieback** caused by bark beetle infestations.
 
 By the end of the week, you will be able to:
    * Select optical remote sensing data suitable for a given application,
