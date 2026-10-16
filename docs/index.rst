@@ -2,7 +2,7 @@ Remote Sensing for Forest Monitoring @ AgroParisTech - 2026 ATHENS week
 =======================================================================
 
 Welcome to the lectures and tutorials on Remote Sensing for Forest Monitoring organized at AgroParisTech
-as part of the [2026 ATHENS week](https://athensnetwork.eu/athens-programme.html).
+as part of the 2026 ATHENS week (https://athensnetwork.eu/athens-programme.html).
 It is under construction, and we expect some bugs and issues. 
 Feel free to send feedback at romain dot thoreau at agroparistech dot fr.
 
@@ -24,7 +24,7 @@ Schedule (First edition, 2026)
 ----------------------------------------
 
 +--------------------------------------------+--------------------------------------------------------------------------+
-| **Date**                                   | **Lectures / Tutorials**                                                 |
+| **Date**                  |                | **Lectures / Tutorials**                                                 |
 +===========================+================+==========================================================================+
 | Monday, 16. November 2026 | 08:30–11:45    | Introduction to remote sensing and radiative transfer modeling           |
 +--------------------------------------------+--------------------------------------------------------------------------+
@@ -34,7 +34,7 @@ Schedule (First edition, 2026)
 Lectures
 ----------
 
-- `Introduction to remote sensing and radiative transfer modeling <https://raw.githubusercontent.com/Romain3Ch216/RSFM/main/docs/lectures/intro.pdf>`_
+- `Introduction to remote sensing and radiative transfer modeling <https://raw.githubusercontent.com/Romain3Ch216/RSFM/main/docs/lectures/introduction_optical_remote_sensing/intro.pdf>`_
 
 .. toctree::
    :caption: Tutorials
