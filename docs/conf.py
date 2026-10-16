@@ -17,8 +17,8 @@ import sphinx_rtd_theme
 
 # -- Project information -----------------------------------------------------
 
-project = 'DL4IA'
-copyright = '2025, Romain Thoreau'
+project = 'RSFM'
+copyright = '2026, Romain Thoreau'
 author = 'Romain Thoreau'
 
 # The full version, including alpha/beta/rc tags
