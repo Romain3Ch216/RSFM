@@ -57,8 +57,7 @@ def radiative_transfer_modeling_6S(aux_data: Dict, wavelengths: List):
         s.altitudes.set_sensor_satellite_level()
         s.altitudes.set_target_pressure(atmosphere_data['PRESSURE_AT_MEAN_SEA_LEVEL']['VALUE'])
 
-        # s.ground_reflectance = pyrtm.GroundReflectance.HomogeneousLambertian(0.3)
-        # s.atmos_corr = pyrtm.AtmosCorr.AtmosCorrLambertianFromReflectance(0.3)  # gives xa, xb, xc
+        s.ground_reflectance = pyrtm.GroundReflectance.HomogeneousLambertian(0)
         s.wavelength = pyrtm.Wavelength(wavelengths[i])
         s.run()
         o = s.outputs
@@ -72,9 +71,6 @@ def radiative_transfer_modeling_6S(aux_data: Dict, wavelengths: List):
         T_gas.append(o.transmittance_global_gas.total)
         S_alb.append(o.spherical_albedo.total)
         L_path.append(o.atmospheric_intrinsic_radiance)
-        xa.append(o.coef_xa)
-        xb.append(o.coef_xb)
-        xc.append(o.coef_xc)
 
     output = {
         'DIRECT_SOLAR_IRRADIANCE': {'VALUES': E_dir, 'UNIT': 'W/m2/µm'},
@@ -88,6 +84,13 @@ def radiative_transfer_modeling_6S(aux_data: Dict, wavelengths: List):
         'SOLAR_SPECTRUM': {'VALUES': E_TOA, 'UNIT': 'W/m2/sr/µm'},
         'WAVELENGTHS': {'VALUES': list(wavelengths), 'UNIT': 'µm'}
     }
+
+    # Handle NaN values
+    for var_name, var in output.items():
+        var = np.array(var['VALUES'])
+        mask = np.isnan(var)
+        var[mask] = np.interp(np.flatnonzero(mask), np.flatnonzero(~mask), var[~mask])
+        output[var_name]['VALUES'] = [float(x) for x in var]
 
     return output
 
@@ -117,13 +120,6 @@ if __name__ == '__main__':
         print('File aready exists.')
     else:
         radiative_variables = radiative_transfer_modeling_6S(aux_data, wv)
-
-        # Handle NaN values
-        for var_name, var in radiative_variables.items():
-            var = np.array(var['VALUES'])
-            mask = np.isnan(var)
-            var[mask] = np.interp(np.flatnonzero(mask), np.flatnonzero(~mask), var[~mask])
-            radiative_variables[var_name]['VALUES'] = [float(x) for x in var]
 
         with open(file_path, 'w') as f:
             json.dump(radiative_variables, f, indent=4)
