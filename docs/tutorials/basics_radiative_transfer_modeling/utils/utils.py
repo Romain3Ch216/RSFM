@@ -65,11 +65,19 @@ def rgb_render(
     return data_ready, out_dmin, out_dmax
 
 
-def plot_dict(d: dict, title="Dictionary structure"):
+def plot_dict(d: dict, columns=None, print_type=True):
     """Plot dict keys and their value types as a styled table (Jupyter-friendly)."""
-    df = pd.DataFrame(
-        [{"key": k, "type": type(v).__name__, "value_preview": repr(v)[:50]}
-         for k, v in d.items()]
-    ).set_index("key")
+    if columns is None:
+        columns = ['key', 'value_preview']
+    if print_type:
+        df = pd.DataFrame(
+            [{columns[0]: k, "type": type(v).__name__, columns[1]: repr(v)[:50]}
+            for k, v in d.items()]
+        ).set_index(columns[0])
+    else:
+        df = pd.DataFrame(
+            [{columns[0]: k, columns[1]: repr(v)[:50]}
+            for k, v in d.items()]
+        ).set_index(columns[0])       
 
     return df
