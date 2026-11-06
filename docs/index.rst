@@ -17,7 +17,7 @@ satellite images to detect tree dieback** caused by bark beetle infestations.
 By the end of the week, you will be able to:
    * Select optical remote sensing data suitable for a given application,
    * Process optical satellite images using specialized Python libraries,
-   * Select and apply an anomaly detection method for forest monitoring.
+   * Design and implement a data processing pipeline to automatically detect tree dieback.
 
 
 Schedule (First edition, 2026)
@@ -61,6 +61,5 @@ Lectures
 Evaluation
 ----------
 
-In groups of two or three, you will design and implement a data processing pipeline to detect tree dieback.
-You will select and implement an anomaly detection method calibrated on a given geographic area, and assess the
-performance of the method on other geographic areas.
+In groups of two or three, you will design and implement a data processing pipeline to detect tree dieback caused by bark beetle infestations.
+On the last day, you will present to the class the methodological choices underlying your anomaly detection pipeline.
