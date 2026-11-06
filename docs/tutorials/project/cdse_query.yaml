@@ -1,0 +1,13 @@
+data_folder: /path/to/your/folder
+collection: SENTINEL2_L2A
+spatial_extent:
+  west: 6.547121
+  south: 47.910627
+  east: 6.572061
+  north: 47.935760
+# From OpenEO doc (https://open-eo.github.io/openeo-python-client/data_access.html#filter-on-spatial-extent): 
+# "By default these latitude and longitude values are expressed in the standard Coordinate Reference System 
+# for the world, which is EPSG:4326, also known as “WGS 84”, or just “lat-long”".
+temporal_extent: ["2016-01-01", "2018-01-01"]
+bands: ['B02', 'B03', 'B04', 'B05', 'B06', 'B07', 'B08', 'B8A', 'B11', 'B12']
+max_cloud_cover: 50
