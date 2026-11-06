@@ -58,6 +58,8 @@ Lectures
    tutorials/basics_radiative_transfer_modeling/basics_radiative_transfer_modeling.ipynb
    tutorials/leaf_traits_inversion/leaf_traits_inversion.ipynb
 
+The material for the tutorials is available here: https://fichiers.numerique.gouv.fr/explorer/items/c34458d1-a27c-459f-ab82-e4abfb75281d
+
 Evaluation
 ----------
 
