@@ -1,0 +1,6 @@
+\beamer@sectionintoc {1}{Bibliography and references}{3}{0}{1}
+\beamer@sectionintoc {2}{Monitoring of bark beetle infestations from satellite images}{4}{0}{2}
+\beamer@subsectionintoc {2}{1}{Spectral indices}{6}{0}{2}
+\beamer@subsectionintoc {2}{2}{Phenology of vegetation: the dynamics of CR$_{\text {SWIR}}$}{8}{0}{2}
+\beamer@subsectionintoc {2}{3}{Modeling the expected dynamics of CR$_{\text {SWIR}}$}{44}{0}{2}
+\beamer@subsectionintoc {2}{4}{Anomaly detection}{51}{0}{2}

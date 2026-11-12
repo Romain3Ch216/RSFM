@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.2.20)  9 NOV 2026 10:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.2.20)  12 NOV 2026 13:38
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1270,213 +1270,213 @@ Package: ocgbase 2022/08/04 v0.22 support package for ocgx2.sty
 \@anim@@resizeflags=\count395
 )
 \c@thm=\count396
-Package hyperref Info: Option `colorlinks' set `true' on input line 178.
+Package hyperref Info: Option `colorlinks' set `true' on input line 184.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 232.
+(hyperref)                removing `\\' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 232.
+(hyperref)                removing `\\' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\begingroup' on input line 232.
+(hyperref)                removing `\begingroup' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\catcode' on input line 232.
+(hyperref)                removing `\catcode' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\active' on input line 232.
+(hyperref)                removing `\active' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<def>-command' on input line 232.
+(hyperref)                removing `\<def>-command' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\csname\endcsname' on input line 232.
+(hyperref)                removing `\csname\endcsname' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\catcode' on input line 232.
+(hyperref)                removing `\catcode' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\active' on input line 232.
+(hyperref)                removing `\active' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 232.
+(hyperref)                removing `\<let>-command' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\csname\endcsname' on input line 232.
+(hyperref)                removing `\csname\endcsname' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 232.
+(hyperref)                removing `\<let>-command' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\%' on input line 232.
+(hyperref)                removing `\%' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\catcode' on input line 232.
+(hyperref)                removing `\catcode' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\active' on input line 232.
+(hyperref)                removing `\active' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<def>-command' on input line 232.
+(hyperref)                removing `\<def>-command' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\csname\endcsname' on input line 232.
+(hyperref)                removing `\csname\endcsname' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<def>-command' on input line 232.
+(hyperref)                removing `\<def>-command' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\#' on input line 232.
+(hyperref)                removing `\#' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\catcode' on input line 232.
+(hyperref)                removing `\catcode' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<def>-command' on input line 232.
+(hyperref)                removing `\<def>-command' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\csname\endcsname' on input line 232.
+(hyperref)                removing `\csname\endcsname' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<def>-command' on input line 232.
+(hyperref)                removing `\<def>-command' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\&' on input line 232.
+(hyperref)                removing `\&' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<def>-command' on input line 232.
+(hyperref)                removing `\<def>-command' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\textunderscore' on input line 232.
+(hyperref)                removing `\textunderscore' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 232.
+(hyperref)                removing `\<let>-command' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\_' on input line 232.
+(hyperref)                removing `\_' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\catcode' on input line 232.
+(hyperref)                removing `\catcode' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\active' on input line 232.
+(hyperref)                removing `\active' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 232.
+(hyperref)                removing `\<let>-command' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\csname\endcsname' on input line 232.
+(hyperref)                removing `\csname\endcsname' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 232.
+(hyperref)                removing `\<let>-command' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\csname\endcsname' on input line 232.
+(hyperref)                removing `\csname\endcsname' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 232.
+(hyperref)                removing `\<let>-command' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\~' on input line 232.
+(hyperref)                removing `\~' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 232.
+(hyperref)                removing `\<let>-command' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\textasciitilde' on input line 232.
+(hyperref)                removing `\textasciitilde' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 232.
+(hyperref)                removing `\<let>-command' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 232.
+(hyperref)                removing `\\' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<def>-command' on input line 232.
+(hyperref)                removing `\<def>-command' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\csname\endcsname' on input line 232.
+(hyperref)                removing `\csname\endcsname' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<def>-command' on input line 232.
+(hyperref)                removing `\<def>-command' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\Hy@tempa' on input line 232.
+(hyperref)                removing `\Hy@tempa' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<def>-command' on input line 232.
+(hyperref)                removing `\<def>-command' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\Hy@tempa' on input line 232.
+(hyperref)                removing `\Hy@tempa' on input line 238.
 
 (./tree_dieback_detection.aux)
 \openout1 = `tree_dieback_detection.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 263.
-LaTeX Font Info:    ... okay on input line 263.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 263.
-LaTeX Font Info:    ... okay on input line 263.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 263.
-LaTeX Font Info:    ... okay on input line 263.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 263.
-LaTeX Font Info:    ... okay on input line 263.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 263.
-LaTeX Font Info:    ... okay on input line 263.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 263.
-LaTeX Font Info:    ... okay on input line 263.
-LaTeX Font Info:    Checking defaults for U/mathx/m/n on input line 263.
-LaTeX Font Info:    ... okay on input line 263.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 263.
-LaTeX Font Info:    ... okay on input line 263.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 263.
-LaTeX Font Info:    ... okay on input line 263.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 269.
+LaTeX Font Info:    ... okay on input line 269.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 269.
+LaTeX Font Info:    ... okay on input line 269.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 269.
+LaTeX Font Info:    ... okay on input line 269.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 269.
+LaTeX Font Info:    ... okay on input line 269.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 269.
+LaTeX Font Info:    ... okay on input line 269.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 269.
+LaTeX Font Info:    ... okay on input line 269.
+LaTeX Font Info:    Checking defaults for U/mathx/m/n on input line 269.
+LaTeX Font Info:    ... okay on input line 269.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 269.
+LaTeX Font Info:    ... okay on input line 269.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 269.
+LaTeX Font Info:    ... okay on input line 269.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1534,7 +1534,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring ON on input line 263.
+Package hyperref Info: Link coloring ON on input line 269.
 
 (./tree_dieback_detection.out) (./tree_dieback_detection.out)
 \@outlinefile=\write6
@@ -1565,8 +1565,8 @@ Dictionary: translator-numbers-dictionary, Language: English
 ry-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Command `\dddot' is already robust on input line 263.
-LaTeX Info: Command `\ddddot' is already robust on input line 263.
+LaTeX Info: Command `\dddot' is already robust on input line 269.
+LaTeX Info: Command `\ddddot' is already robust on input line 269.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 
@@ -1574,34 +1574,34 @@ Package caption Info: End \AtBeginDocument code.
 Package: ninecolors 2022-02-13 v2022D Select colors with proper color contrast
 )
 (./tree_dieback_detection.nav)
-LaTeX Font Info:    Trying to load font information for U+msa on input line 267
+LaTeX Font Info:    Trying to load font information for U+msa on input line 273
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 267
+LaTeX Font Info:    Trying to load font information for U+msb on input line 273
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<figures/logo_mia.png, id=14, 96.36pt x 96.36pt>
+<figures/logo_mia.png, id=38, 96.36pt x 96.36pt>
 File: figures/logo_mia.png Graphic file (type png)
 <use figures/logo_mia.png>
-Package pdftex.def Info: figures/logo_mia.png  used on input line 267.
+Package pdftex.def Info: figures/logo_mia.png  used on input line 273.
 (pdftex.def)             Requested size: 22.76222pt x 22.76228pt.
-<figures/APT_Logo_RVB_Positif.png, id=16, 696.201pt x 193.32225pt>
+<figures/APT_Logo_RVB_Positif.png, id=40, 696.201pt x 193.32225pt>
 File: figures/APT_Logo_RVB_Positif.png Graphic file (type png)
 <use figures/APT_Logo_RVB_Positif.png>
 Package pdftex.def Info: figures/APT_Logo_RVB_Positif.png  used on input line 2
-67.
+73.
 (pdftex.def)             Requested size: 61.47621pt x 17.07182pt.
-<figures/Logotype UPSaclay_RVB.png, id=17, 178.6675pt x 80.3pt>
+<figures/Logotype UPSaclay_RVB.png, id=41, 178.6675pt x 80.3pt>
 File: figures/Logotype UPSaclay_RVB.png Graphic file (type png)
 <use figures/Logotype UPSaclay_RVB.png>
 Package pdftex.def Info: figures/Logotype UPSaclay_RVB.png  used on input line 
-267.
+273.
 (pdftex.def)             Requested size: 50.6454pt x 22.76228pt.
  [1
 
@@ -1613,49 +1613,1231 @@ py)>]
 ] [3
 
 ]
-<figures/Dendroctonus_ponderosae.jpeg, id=46, 301.125pt x 301.125pt>
+<figures/Dendroctonus_ponderosae.jpeg, id=83, 301.125pt x 301.125pt>
 File: figures/Dendroctonus_ponderosae.jpeg Graphic file (type jpg)
 <use figures/Dendroctonus_ponderosae.jpeg>
 Package pdftex.def Info: figures/Dendroctonus_ponderosae.jpeg  used on input li
-ne 317.
+ne 340.
 (pdftex.def)             Requested size: 59.74835pt x 59.74606pt.
-<figures/Ips_typographicus_2_meyers_1888_v16_p352.jpeg, id=47, 153.6942pt x 243
+<figures/Ips_typographicus_2_meyers_1888_v16_p352.jpeg, id=84, 153.6942pt x 243
 .309pt>
 File: figures/Ips_typographicus_2_meyers_1888_v16_p352.jpeg Graphic file (type 
 jpg)
 <use figures/Ips_typographicus_2_meyers_1888_v16_p352.jpeg>
 Package pdftex.def Info: figures/Ips_typographicus_2_meyers_1888_v16_p352.jpeg 
- used on input line 317.
-(pdftex.def)             Requested size: 79.66649pt x 126.12045pt.
-<figures/Bayerischer_wald1.jpeg, id=48, 1203.49625pt x 906.38625pt>
+ used on input line 340.
+(pdftex.def)             Requested size: 49.79231pt x 78.82574pt.
+<figures/Bayerischer_wald1.jpeg, id=85, 1203.49625pt x 906.38625pt>
 File: figures/Bayerischer_wald1.jpeg Graphic file (type jpg)
 <use figures/Bayerischer_wald1.jpeg>
-Package pdftex.def Info: figures/Bayerischer_wald1.jpeg  used on input line 317
+Package pdftex.def Info: figures/Bayerischer_wald1.jpeg  used on input line 340
 .
 (pdftex.def)             Requested size: 119.50279pt x 89.9939pt.
  [4
 
  <./figures/Dendroctonus_ponderosae.jpeg> <./figures/Ips_typographicus_2_meyers
 _1888_v16_p352.jpeg> <./figures/Bayerischer_wald1.jpeg>]
-<figures/ajol_2018.png, id=55, 1173.38374pt x 901.3675pt>
+<figures/ajol_2018.png, id=93, 1173.38374pt x 901.3675pt>
 File: figures/ajol_2018.png Graphic file (type png)
 <use figures/ajol_2018.png>
-Package pdftex.def Info: figures/ajol_2018.png  used on input line 341.
+Package pdftex.def Info: figures/ajol_2018.png  used on input line 368.
 (pdftex.def)             Requested size: 119.50279pt x 91.79247pt.
-<figures/ajol_2019.png, id=56, 1173.38374pt x 901.3675pt>
+<figures/ajol_2019.png, id=94, 1173.38374pt x 901.3675pt>
 File: figures/ajol_2019.png Graphic file (type png)
 <use figures/ajol_2019.png>
-Package pdftex.def Info: figures/ajol_2019.png  used on input line 341.
+Package pdftex.def Info: figures/ajol_2019.png  used on input line 368.
 (pdftex.def)             Requested size: 119.50279pt x 91.79247pt.
-<figures/ajol_2020.png, id=57, 1173.38374pt x 901.3675pt>
+<figures/ajol_2020.png, id=95, 1173.38374pt x 901.3675pt>
 File: figures/ajol_2020.png Graphic file (type png)
 <use figures/ajol_2020.png>
-Package pdftex.def Info: figures/ajol_2020.png  used on input line 341.
+Package pdftex.def Info: figures/ajol_2020.png  used on input line 368.
 (pdftex.def)             Requested size: 119.50279pt x 91.79247pt.
  [5
 
  <./figures/ajol_2018.png> <./figures/ajol_2019.png> <./figures/ajol_2020.png>]
- [6
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 397.
+
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./figures/reflectance_143_98_2.pdf): PD
+F inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<figures/reflectance_143_98_2.pdf, id=105, 409.3498pt x 318.41478pt>
+File: figures/reflectance_143_98_2.pdf Graphic file (type pdf)
+<use figures/reflectance_143_98_2.pdf>
+Package pdftex.def Info: figures/reflectance_143_98_2.pdf  used on input line 3
+97.
+(pdftex.def)             Requested size: 119.50279pt x 92.95496pt.
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./figures/reflectance_143_98_9.pdf): PD
+F inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<figures/reflectance_143_98_9.pdf, id=106, 409.3498pt x 318.41478pt>
+File: figures/reflectance_143_98_9.pdf Graphic file (type pdf)
+<use figures/reflectance_143_98_9.pdf>
+Package pdftex.def Info: figures/reflectance_143_98_9.pdf  used on input line 3
+97.
+(pdftex.def)             Requested size: 119.50279pt x 92.95496pt.
+
+Overfull \vbox (2.7396pt too high) detected at line 397
+ []
+
+[6
+
+ <./figures/reflectance_143_98_2.pdf> <./figures/reflectance_143_98_9.pdf>]
+
+pdfTeX warning: /usr/bin/pdflatex (file ./figures/reflectance_143_98_2_cr.pdf):
+ PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<figures/reflectance_143_98_2_cr.pdf, id=125, 409.32133pt x 318.38632pt>
+File: figures/reflectance_143_98_2_cr.pdf Graphic file (type pdf)
+<use figures/reflectance_143_98_2_cr.pdf>
+Package pdftex.def Info: figures/reflectance_143_98_2_cr.pdf  used on input lin
+e 426.
+(pdftex.def)             Requested size: 119.50279pt x 92.9515pt.
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./figures/reflectance_143_98_9_cr.pdf):
+ PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<figures/reflectance_143_98_9_cr.pdf, id=126, 409.32133pt x 318.38632pt>
+File: figures/reflectance_143_98_9_cr.pdf Graphic file (type pdf)
+<use figures/reflectance_143_98_9_cr.pdf>
+Package pdftex.def Info: figures/reflectance_143_98_9_cr.pdf  used on input lin
+e 426.
+(pdftex.def)             Requested size: 119.50279pt x 92.9515pt.
+[7
+
+ <./figures/reflectance_143_98_2_cr.pdf> <./figures/reflectance_143_98_9_cr.pdf
+>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 428.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 428.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 428.
+
+<figures/time_series_2018_2020/rgb_compo_143_98_2.pdf, id=148, 183.05435pt x 28
+2.2838pt>
+File: figures/time_series_2018_2020/rgb_compo_143_98_2.pdf Graphic file (type p
+df)
+<use figures/time_series_2018_2020/rgb_compo_143_98_2.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/rgb_compo_143_98_2.pdf  
+used on input line 638.
+(pdftex.def)             Requested size: 79.66649pt x 122.85275pt.
+<figures/time_series_2018_2020/reflectance_143_98_2.pdf, id=149, 409.35344pt x 
+318.4188pt>
+File: figures/time_series_2018_2020/reflectance_143_98_2.pdf Graphic file (type
+ pdf)
+<use figures/time_series_2018_2020/reflectance_143_98_2.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/reflectance_143_98_2.pdf
+  used on input line 638.
+(pdftex.def)             Requested size: 151.3706pt x 117.74509pt.
+<figures/time_series_2018_2020/cr_swir_pixel_143_98_2.pdf, id=150, 400.50691pt 
+x 322.4663pt>
+File: figures/time_series_2018_2020/cr_swir_pixel_143_98_2.pdf Graphic file (ty
+pe pdf)
+<use figures/time_series_2018_2020/cr_swir_pixel_143_98_2.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/cr_swir_pixel_143_98_2.p
+df  used on input line 638.
+(pdftex.def)             Requested size: 151.3706pt x 121.87419pt.
+[8
+
+ <./figures/time_series_2018_2020/rgb_compo_143_98_2.pdf> <./figures/time_serie
+s_2018_2020/reflectance_143_98_2.pdf> <./figures/time_series_2018_2020/cr_swir_
+pixel_143_98_2.pdf>]
+<figures/time_series_2018_2020/rgb_compo_143_98_4.pdf, id=233, 183.05435pt x 28
+2.2838pt>
+File: figures/time_series_2018_2020/rgb_compo_143_98_4.pdf Graphic file (type p
+df)
+<use figures/time_series_2018_2020/rgb_compo_143_98_4.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/rgb_compo_143_98_4.pdf  
+used on input line 638.
+(pdftex.def)             Requested size: 79.66649pt x 122.85275pt.
+<figures/time_series_2018_2020/reflectance_143_98_4.pdf, id=234, 409.35344pt x 
+318.4188pt>
+File: figures/time_series_2018_2020/reflectance_143_98_4.pdf Graphic file (type
+ pdf)
+<use figures/time_series_2018_2020/reflectance_143_98_4.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/reflectance_143_98_4.pdf
+  used on input line 638.
+(pdftex.def)             Requested size: 151.3706pt x 117.74509pt.
+<figures/time_series_2018_2020/cr_swir_pixel_143_98_4.pdf, id=235, 400.50691pt 
+x 322.4663pt>
+File: figures/time_series_2018_2020/cr_swir_pixel_143_98_4.pdf Graphic file (ty
+pe pdf)
+<use figures/time_series_2018_2020/cr_swir_pixel_143_98_4.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/cr_swir_pixel_143_98_4.p
+df  used on input line 638.
+(pdftex.def)             Requested size: 151.3706pt x 121.87419pt.
+ [9
+
+ <./figures/time_series_2018_2020/rgb_compo_143_98_4.pdf> <./figures/time_serie
+s_2018_2020/reflectance_143_98_4.pdf> <./figures/time_series_2018_2020/cr_swir_
+pixel_143_98_4.pdf>]
+<figures/time_series_2018_2020/rgb_compo_143_98_9.pdf, id=318, 183.05435pt x 28
+2.2838pt>
+File: figures/time_series_2018_2020/rgb_compo_143_98_9.pdf Graphic file (type p
+df)
+<use figures/time_series_2018_2020/rgb_compo_143_98_9.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/rgb_compo_143_98_9.pdf  
+used on input line 638.
+(pdftex.def)             Requested size: 79.66649pt x 122.85275pt.
+<figures/time_series_2018_2020/reflectance_143_98_9.pdf, id=319, 409.35344pt x 
+318.4188pt>
+File: figures/time_series_2018_2020/reflectance_143_98_9.pdf Graphic file (type
+ pdf)
+<use figures/time_series_2018_2020/reflectance_143_98_9.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/reflectance_143_98_9.pdf
+  used on input line 638.
+(pdftex.def)             Requested size: 151.3706pt x 117.74509pt.
+<figures/time_series_2018_2020/cr_swir_pixel_143_98_9.pdf, id=320, 400.50691pt 
+x 322.4663pt>
+File: figures/time_series_2018_2020/cr_swir_pixel_143_98_9.pdf Graphic file (ty
+pe pdf)
+<use figures/time_series_2018_2020/cr_swir_pixel_143_98_9.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/cr_swir_pixel_143_98_9.p
+df  used on input line 638.
+(pdftex.def)             Requested size: 151.3706pt x 121.87419pt.
+ [10
+
+ <./figures/time_series_2018_2020/rgb_compo_143_98_9.pdf> <./figures/time_serie
+s_2018_2020/reflectance_143_98_9.pdf> <./figures/time_series_2018_2020/cr_swir_
+pixel_143_98_9.pdf>]
+<figures/time_series_2018_2020/rgb_compo_143_98_19.pdf, id=404, 183.05435pt x 2
+82.2838pt>
+File: figures/time_series_2018_2020/rgb_compo_143_98_19.pdf Graphic file (type 
+pdf)
+<use figures/time_series_2018_2020/rgb_compo_143_98_19.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/rgb_compo_143_98_19.pdf 
+ used on input line 638.
+(pdftex.def)             Requested size: 79.66649pt x 122.85275pt.
+<figures/time_series_2018_2020/reflectance_143_98_19.pdf, id=405, 409.35344pt x
+ 318.4188pt>
+File: figures/time_series_2018_2020/reflectance_143_98_19.pdf Graphic file (typ
+e pdf)
+<use figures/time_series_2018_2020/reflectance_143_98_19.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/reflectance_143_98_19.pd
+f  used on input line 638.
+(pdftex.def)             Requested size: 151.3706pt x 117.74509pt.
+<figures/time_series_2018_2020/cr_swir_pixel_143_98_19.pdf, id=406, 400.50691pt
+ x 322.4663pt>
+File: figures/time_series_2018_2020/cr_swir_pixel_143_98_19.pdf Graphic file (t
+ype pdf)
+<use figures/time_series_2018_2020/cr_swir_pixel_143_98_19.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/cr_swir_pixel_143_98_19.
+pdf  used on input line 638.
+(pdftex.def)             Requested size: 151.3706pt x 121.87419pt.
+ [11
+
+ <./figures/time_series_2018_2020/rgb_compo_143_98_19.pdf> <./figures/time_seri
+es_2018_2020/reflectance_143_98_19.pdf> <./figures/time_series_2018_2020/cr_swi
+r_pixel_143_98_19.pdf>]
+<figures/time_series_2018_2020/rgb_compo_143_98_29.pdf, id=491, 183.05435pt x 2
+82.2838pt>
+File: figures/time_series_2018_2020/rgb_compo_143_98_29.pdf Graphic file (type 
+pdf)
+<use figures/time_series_2018_2020/rgb_compo_143_98_29.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/rgb_compo_143_98_29.pdf 
+ used on input line 638.
+(pdftex.def)             Requested size: 79.66649pt x 122.85275pt.
+<figures/time_series_2018_2020/reflectance_143_98_29.pdf, id=492, 409.35344pt x
+ 318.4188pt>
+File: figures/time_series_2018_2020/reflectance_143_98_29.pdf Graphic file (typ
+e pdf)
+<use figures/time_series_2018_2020/reflectance_143_98_29.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/reflectance_143_98_29.pd
+f  used on input line 638.
+(pdftex.def)             Requested size: 151.3706pt x 117.74509pt.
+<figures/time_series_2018_2020/cr_swir_pixel_143_98_29.pdf, id=493, 400.50691pt
+ x 322.4663pt>
+File: figures/time_series_2018_2020/cr_swir_pixel_143_98_29.pdf Graphic file (t
+ype pdf)
+<use figures/time_series_2018_2020/cr_swir_pixel_143_98_29.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/cr_swir_pixel_143_98_29.
+pdf  used on input line 638.
+(pdftex.def)             Requested size: 151.3706pt x 121.87419pt.
+ [12
+
+ <./figures/time_series_2018_2020/rgb_compo_143_98_29.pdf> <./figures/time_seri
+es_2018_2020/reflectance_143_98_29.pdf> <./figures/time_series_2018_2020/cr_swi
+r_pixel_143_98_29.pdf>]
+<figures/time_series_2018_2020/rgb_compo_143_98_43.pdf, id=577, 183.05435pt x 2
+82.2838pt>
+File: figures/time_series_2018_2020/rgb_compo_143_98_43.pdf Graphic file (type 
+pdf)
+<use figures/time_series_2018_2020/rgb_compo_143_98_43.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/rgb_compo_143_98_43.pdf 
+ used on input line 638.
+(pdftex.def)             Requested size: 79.66649pt x 122.85275pt.
+<figures/time_series_2018_2020/reflectance_143_98_43.pdf, id=578, 409.35344pt x
+ 318.4188pt>
+File: figures/time_series_2018_2020/reflectance_143_98_43.pdf Graphic file (typ
+e pdf)
+<use figures/time_series_2018_2020/reflectance_143_98_43.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/reflectance_143_98_43.pd
+f  used on input line 638.
+(pdftex.def)             Requested size: 151.3706pt x 117.74509pt.
+<figures/time_series_2018_2020/cr_swir_pixel_143_98_43.pdf, id=579, 400.50691pt
+ x 322.4663pt>
+File: figures/time_series_2018_2020/cr_swir_pixel_143_98_43.pdf Graphic file (t
+ype pdf)
+<use figures/time_series_2018_2020/cr_swir_pixel_143_98_43.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/cr_swir_pixel_143_98_43.
+pdf  used on input line 638.
+(pdftex.def)             Requested size: 151.3706pt x 121.87419pt.
+ [13
+
+ <./figures/time_series_2018_2020/rgb_compo_143_98_43.pdf> <./figures/time_seri
+es_2018_2020/reflectance_143_98_43.pdf> <./figures/time_series_2018_2020/cr_swi
+r_pixel_143_98_43.pdf>]
+<figures/time_series_2018_2020/rgb_compo_143_98_50.pdf, id=663, 183.05435pt x 2
+82.2838pt>
+File: figures/time_series_2018_2020/rgb_compo_143_98_50.pdf Graphic file (type 
+pdf)
+<use figures/time_series_2018_2020/rgb_compo_143_98_50.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/rgb_compo_143_98_50.pdf 
+ used on input line 638.
+(pdftex.def)             Requested size: 79.66649pt x 122.85275pt.
+<figures/time_series_2018_2020/reflectance_143_98_50.pdf, id=664, 409.35344pt x
+ 318.4188pt>
+File: figures/time_series_2018_2020/reflectance_143_98_50.pdf Graphic file (typ
+e pdf)
+<use figures/time_series_2018_2020/reflectance_143_98_50.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/reflectance_143_98_50.pd
+f  used on input line 638.
+(pdftex.def)             Requested size: 151.3706pt x 117.74509pt.
+<figures/time_series_2018_2020/cr_swir_pixel_143_98_50.pdf, id=665, 400.50691pt
+ x 322.4663pt>
+File: figures/time_series_2018_2020/cr_swir_pixel_143_98_50.pdf Graphic file (t
+ype pdf)
+<use figures/time_series_2018_2020/cr_swir_pixel_143_98_50.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/cr_swir_pixel_143_98_50.
+pdf  used on input line 638.
+(pdftex.def)             Requested size: 151.3706pt x 121.87419pt.
+
+[14
+
+ <./figures/time_series_2018_2020/rgb_compo_143_98_50.pdf> <./figures/time_seri
+es_2018_2020/reflectance_143_98_50.pdf> <./figures/time_series_2018_2020/cr_swi
+r_pixel_143_98_50.pdf>]
+<figures/time_series_2018_2020/rgb_compo_143_98_57.pdf, id=748, 183.05435pt x 2
+82.2838pt>
+File: figures/time_series_2018_2020/rgb_compo_143_98_57.pdf Graphic file (type 
+pdf)
+<use figures/time_series_2018_2020/rgb_compo_143_98_57.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/rgb_compo_143_98_57.pdf 
+ used on input line 638.
+(pdftex.def)             Requested size: 79.66649pt x 122.85275pt.
+<figures/time_series_2018_2020/reflectance_143_98_57.pdf, id=749, 409.35344pt x
+ 318.4188pt>
+File: figures/time_series_2018_2020/reflectance_143_98_57.pdf Graphic file (typ
+e pdf)
+<use figures/time_series_2018_2020/reflectance_143_98_57.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/reflectance_143_98_57.pd
+f  used on input line 638.
+(pdftex.def)             Requested size: 151.3706pt x 117.74509pt.
+<figures/time_series_2018_2020/cr_swir_pixel_143_98_57.pdf, id=750, 400.50691pt
+ x 322.4663pt>
+File: figures/time_series_2018_2020/cr_swir_pixel_143_98_57.pdf Graphic file (t
+ype pdf)
+<use figures/time_series_2018_2020/cr_swir_pixel_143_98_57.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/cr_swir_pixel_143_98_57.
+pdf  used on input line 638.
+(pdftex.def)             Requested size: 151.3706pt x 121.87419pt.
+ [15
+
+ <./figures/time_series_2018_2020/rgb_compo_143_98_57.pdf> <./figures/time_seri
+es_2018_2020/reflectance_143_98_57.pdf> <./figures/time_series_2018_2020/cr_swi
+r_pixel_143_98_57.pdf>]
+<figures/time_series_2018_2020/rgb_compo_143_98_63.pdf, id=834, 183.05435pt x 2
+82.2838pt>
+File: figures/time_series_2018_2020/rgb_compo_143_98_63.pdf Graphic file (type 
+pdf)
+<use figures/time_series_2018_2020/rgb_compo_143_98_63.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/rgb_compo_143_98_63.pdf 
+ used on input line 638.
+(pdftex.def)             Requested size: 79.66649pt x 122.85275pt.
+<figures/time_series_2018_2020/reflectance_143_98_63.pdf, id=835, 409.35344pt x
+ 318.4188pt>
+File: figures/time_series_2018_2020/reflectance_143_98_63.pdf Graphic file (typ
+e pdf)
+<use figures/time_series_2018_2020/reflectance_143_98_63.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/reflectance_143_98_63.pd
+f  used on input line 638.
+(pdftex.def)             Requested size: 151.3706pt x 117.74509pt.
+<figures/time_series_2018_2020/cr_swir_pixel_143_98_63.pdf, id=836, 400.50691pt
+ x 322.4663pt>
+File: figures/time_series_2018_2020/cr_swir_pixel_143_98_63.pdf Graphic file (t
+ype pdf)
+<use figures/time_series_2018_2020/cr_swir_pixel_143_98_63.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/cr_swir_pixel_143_98_63.
+pdf  used on input line 638.
+(pdftex.def)             Requested size: 151.3706pt x 121.87419pt.
+ [16
+
+ <./figures/time_series_2018_2020/rgb_compo_143_98_63.pdf> <./figures/time_seri
+es_2018_2020/reflectance_143_98_63.pdf> <./figures/time_series_2018_2020/cr_swi
+r_pixel_143_98_63.pdf>]
+<figures/time_series_2018_2020/rgb_compo_143_98_75.pdf, id=921, 183.05435pt x 2
+82.2838pt>
+File: figures/time_series_2018_2020/rgb_compo_143_98_75.pdf Graphic file (type 
+pdf)
+<use figures/time_series_2018_2020/rgb_compo_143_98_75.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/rgb_compo_143_98_75.pdf 
+ used on input line 638.
+(pdftex.def)             Requested size: 79.66649pt x 122.85275pt.
+<figures/time_series_2018_2020/reflectance_143_98_75.pdf, id=922, 409.35344pt x
+ 318.4188pt>
+File: figures/time_series_2018_2020/reflectance_143_98_75.pdf Graphic file (typ
+e pdf)
+<use figures/time_series_2018_2020/reflectance_143_98_75.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/reflectance_143_98_75.pd
+f  used on input line 638.
+(pdftex.def)             Requested size: 151.3706pt x 117.74509pt.
+<figures/time_series_2018_2020/cr_swir_pixel_143_98_75.pdf, id=923, 400.50691pt
+ x 322.4663pt>
+File: figures/time_series_2018_2020/cr_swir_pixel_143_98_75.pdf Graphic file (t
+ype pdf)
+<use figures/time_series_2018_2020/cr_swir_pixel_143_98_75.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/cr_swir_pixel_143_98_75.
+pdf  used on input line 638.
+(pdftex.def)             Requested size: 151.3706pt x 121.87419pt.
+ [17
+
+ <./figures/time_series_2018_2020/rgb_compo_143_98_75.pdf> <./figures/time_seri
+es_2018_2020/reflectance_143_98_75.pdf> <./figures/time_series_2018_2020/cr_swi
+r_pixel_143_98_75.pdf>]
+<figures/time_series_2018_2020/rgb_compo_143_98_83.pdf, id=1007, 183.05435pt x 
+282.2838pt>
+File: figures/time_series_2018_2020/rgb_compo_143_98_83.pdf Graphic file (type 
+pdf)
+<use figures/time_series_2018_2020/rgb_compo_143_98_83.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/rgb_compo_143_98_83.pdf 
+ used on input line 638.
+(pdftex.def)             Requested size: 79.66649pt x 122.85275pt.
+<figures/time_series_2018_2020/reflectance_143_98_83.pdf, id=1008, 409.35344pt 
+x 318.4188pt>
+File: figures/time_series_2018_2020/reflectance_143_98_83.pdf Graphic file (typ
+e pdf)
+<use figures/time_series_2018_2020/reflectance_143_98_83.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/reflectance_143_98_83.pd
+f  used on input line 638.
+(pdftex.def)             Requested size: 151.3706pt x 117.74509pt.
+<figures/time_series_2018_2020/cr_swir_pixel_143_98_83.pdf, id=1009, 400.50691p
+t x 322.4663pt>
+File: figures/time_series_2018_2020/cr_swir_pixel_143_98_83.pdf Graphic file (t
+ype pdf)
+<use figures/time_series_2018_2020/cr_swir_pixel_143_98_83.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/cr_swir_pixel_143_98_83.
+pdf  used on input line 638.
+(pdftex.def)             Requested size: 151.3706pt x 121.87419pt.
+ [18
+
+ <./figures/time_series_2018_2020/rgb_compo_143_98_83.pdf> <./figures/time_seri
+es_2018_2020/reflectance_143_98_83.pdf> <./figures/time_series_2018_2020/cr_swi
+r_pixel_143_98_83.pdf>]
+<figures/time_series_2018_2020/rgb_compo_143_98_88.pdf, id=1094, 183.05435pt x 
+282.2838pt>
+File: figures/time_series_2018_2020/rgb_compo_143_98_88.pdf Graphic file (type 
+pdf)
+<use figures/time_series_2018_2020/rgb_compo_143_98_88.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/rgb_compo_143_98_88.pdf 
+ used on input line 638.
+(pdftex.def)             Requested size: 79.66649pt x 122.85275pt.
+<figures/time_series_2018_2020/reflectance_143_98_88.pdf, id=1095, 409.35344pt 
+x 318.4188pt>
+File: figures/time_series_2018_2020/reflectance_143_98_88.pdf Graphic file (typ
+e pdf)
+<use figures/time_series_2018_2020/reflectance_143_98_88.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/reflectance_143_98_88.pd
+f  used on input line 638.
+(pdftex.def)             Requested size: 151.3706pt x 117.74509pt.
+<figures/time_series_2018_2020/cr_swir_pixel_143_98_88.pdf, id=1096, 400.50691p
+t x 322.4663pt>
+File: figures/time_series_2018_2020/cr_swir_pixel_143_98_88.pdf Graphic file (t
+ype pdf)
+<use figures/time_series_2018_2020/cr_swir_pixel_143_98_88.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/cr_swir_pixel_143_98_88.
+pdf  used on input line 638.
+(pdftex.def)             Requested size: 151.3706pt x 121.87419pt.
+ [19
+
+ <./figures/time_series_2018_2020/rgb_compo_143_98_88.pdf> <./figures/time_seri
+es_2018_2020/reflectance_143_98_88.pdf> <./figures/time_series_2018_2020/cr_swi
+r_pixel_143_98_88.pdf>]
+<figures/time_series_2016_2018/rgb_compo_214_93_0.pdf, id=1179, 183.05435pt x 2
+82.2838pt>
+File: figures/time_series_2016_2018/rgb_compo_214_93_0.pdf Graphic file (type p
+df)
+<use figures/time_series_2016_2018/rgb_compo_214_93_0.pdf>
+Package pdftex.def Info: figures/time_series_2016_2018/rgb_compo_214_93_0.pdf  
+used on input line 847.
+(pdftex.def)             Requested size: 79.66649pt x 122.85275pt.
+<figures/time_series_2016_2018/reflectance_214_93_0.pdf, id=1180, 409.35344pt x
+ 318.4188pt>
+File: figures/time_series_2016_2018/reflectance_214_93_0.pdf Graphic file (type
+ pdf)
+<use figures/time_series_2016_2018/reflectance_214_93_0.pdf>
+Package pdftex.def Info: figures/time_series_2016_2018/reflectance_214_93_0.pdf
+  used on input line 847.
+(pdftex.def)             Requested size: 151.3706pt x 117.74509pt.
+<figures/time_series_2016_2018/cr_swir_pixel_214_93_0.pdf, id=1181, 400.50691pt
+ x 322.4663pt>
+File: figures/time_series_2016_2018/cr_swir_pixel_214_93_0.pdf Graphic file (ty
+pe pdf)
+<use figures/time_series_2016_2018/cr_swir_pixel_214_93_0.pdf>
+Package pdftex.def Info: figures/time_series_2016_2018/cr_swir_pixel_214_93_0.p
+df  used on input line 847.
+(pdftex.def)             Requested size: 151.3706pt x 121.87419pt.
+ [20
+
+ <./figures/time_series_2016_2018/rgb_compo_214_93_0.pdf> <./figures/time_serie
+s_2016_2018/reflectance_214_93_0.pdf> <./figures/time_series_2016_2018/cr_swir_
+pixel_214_93_0.pdf>]
+<figures/time_series_2016_2018/rgb_compo_214_93_3.pdf, id=1263, 183.05435pt x 2
+82.2838pt>
+File: figures/time_series_2016_2018/rgb_compo_214_93_3.pdf Graphic file (type p
+df)
+<use figures/time_series_2016_2018/rgb_compo_214_93_3.pdf>
+Package pdftex.def Info: figures/time_series_2016_2018/rgb_compo_214_93_3.pdf  
+used on input line 847.
+(pdftex.def)             Requested size: 79.66649pt x 122.85275pt.
+<figures/time_series_2016_2018/reflectance_214_93_3.pdf, id=1264, 409.35344pt x
+ 318.4188pt>
+File: figures/time_series_2016_2018/reflectance_214_93_3.pdf Graphic file (type
+ pdf)
+<use figures/time_series_2016_2018/reflectance_214_93_3.pdf>
+Package pdftex.def Info: figures/time_series_2016_2018/reflectance_214_93_3.pdf
+  used on input line 847.
+(pdftex.def)             Requested size: 151.3706pt x 117.74509pt.
+<figures/time_series_2016_2018/cr_swir_pixel_214_93_3.pdf, id=1265, 400.50691pt
+ x 322.4663pt>
+File: figures/time_series_2016_2018/cr_swir_pixel_214_93_3.pdf Graphic file (ty
+pe pdf)
+<use figures/time_series_2016_2018/cr_swir_pixel_214_93_3.pdf>
+Package pdftex.def Info: figures/time_series_2016_2018/cr_swir_pixel_214_93_3.p
+df  used on input line 847.
+(pdftex.def)             Requested size: 151.3706pt x 121.87419pt.
+ [21
+
+ <./figures/time_series_2016_2018/rgb_compo_214_93_3.pdf> <./figures/time_serie
+s_2016_2018/reflectance_214_93_3.pdf> <./figures/time_series_2016_2018/cr_swir_
+pixel_214_93_3.pdf>]
+<figures/time_series_2016_2018/rgb_compo_214_93_6.pdf, id=1349, 183.05435pt x 2
+82.2838pt>
+File: figures/time_series_2016_2018/rgb_compo_214_93_6.pdf Graphic file (type p
+df)
+<use figures/time_series_2016_2018/rgb_compo_214_93_6.pdf>
+Package pdftex.def Info: figures/time_series_2016_2018/rgb_compo_214_93_6.pdf  
+used on input line 847.
+(pdftex.def)             Requested size: 79.66649pt x 122.85275pt.
+<figures/time_series_2016_2018/reflectance_214_93_6.pdf, id=1350, 409.35344pt x
+ 318.4188pt>
+File: figures/time_series_2016_2018/reflectance_214_93_6.pdf Graphic file (type
+ pdf)
+<use figures/time_series_2016_2018/reflectance_214_93_6.pdf>
+Package pdftex.def Info: figures/time_series_2016_2018/reflectance_214_93_6.pdf
+  used on input line 847.
+(pdftex.def)             Requested size: 151.3706pt x 117.74509pt.
+<figures/time_series_2016_2018/cr_swir_pixel_214_93_6.pdf, id=1351, 400.50691pt
+ x 322.4663pt>
+File: figures/time_series_2016_2018/cr_swir_pixel_214_93_6.pdf Graphic file (ty
+pe pdf)
+<use figures/time_series_2016_2018/cr_swir_pixel_214_93_6.pdf>
+Package pdftex.def Info: figures/time_series_2016_2018/cr_swir_pixel_214_93_6.p
+df  used on input line 847.
+(pdftex.def)             Requested size: 151.3706pt x 121.87419pt.
+ [22
+
+ <./figures/time_series_2016_2018/rgb_compo_214_93_6.pdf> <./figures/time_serie
+s_2016_2018/reflectance_214_93_6.pdf> <./figures/time_series_2016_2018/cr_swir_
+pixel_214_93_6.pdf>]
+<figures/time_series_2016_2018/rgb_compo_214_93_9.pdf, id=1435, 183.05435pt x 2
+82.2838pt>
+File: figures/time_series_2016_2018/rgb_compo_214_93_9.pdf Graphic file (type p
+df)
+<use figures/time_series_2016_2018/rgb_compo_214_93_9.pdf>
+Package pdftex.def Info: figures/time_series_2016_2018/rgb_compo_214_93_9.pdf  
+used on input line 847.
+(pdftex.def)             Requested size: 79.66649pt x 122.85275pt.
+<figures/time_series_2016_2018/reflectance_214_93_9.pdf, id=1436, 409.35344pt x
+ 318.4188pt>
+File: figures/time_series_2016_2018/reflectance_214_93_9.pdf Graphic file (type
+ pdf)
+<use figures/time_series_2016_2018/reflectance_214_93_9.pdf>
+Package pdftex.def Info: figures/time_series_2016_2018/reflectance_214_93_9.pdf
+  used on input line 847.
+(pdftex.def)             Requested size: 151.3706pt x 117.74509pt.
+<figures/time_series_2016_2018/cr_swir_pixel_214_93_9.pdf, id=1437, 400.50691pt
+ x 322.4663pt>
+File: figures/time_series_2016_2018/cr_swir_pixel_214_93_9.pdf Graphic file (ty
+pe pdf)
+<use figures/time_series_2016_2018/cr_swir_pixel_214_93_9.pdf>
+Package pdftex.def Info: figures/time_series_2016_2018/cr_swir_pixel_214_93_9.p
+df  used on input line 847.
+(pdftex.def)             Requested size: 151.3706pt x 121.87419pt.
+
+[23
+
+ <./figures/time_series_2016_2018/rgb_compo_214_93_9.pdf> <./figures/time_serie
+s_2016_2018/reflectance_214_93_9.pdf> <./figures/time_series_2016_2018/cr_swir_
+pixel_214_93_9.pdf>]
+<figures/time_series_2016_2018/rgb_compo_214_93_13.pdf, id=1519, 183.05435pt x 
+282.2838pt>
+File: figures/time_series_2016_2018/rgb_compo_214_93_13.pdf Graphic file (type 
+pdf)
+<use figures/time_series_2016_2018/rgb_compo_214_93_13.pdf>
+Package pdftex.def Info: figures/time_series_2016_2018/rgb_compo_214_93_13.pdf 
+ used on input line 847.
+(pdftex.def)             Requested size: 79.66649pt x 122.85275pt.
+<figures/time_series_2016_2018/reflectance_214_93_13.pdf, id=1520, 409.35344pt 
+x 318.4188pt>
+File: figures/time_series_2016_2018/reflectance_214_93_13.pdf Graphic file (typ
+e pdf)
+<use figures/time_series_2016_2018/reflectance_214_93_13.pdf>
+Package pdftex.def Info: figures/time_series_2016_2018/reflectance_214_93_13.pd
+f  used on input line 847.
+(pdftex.def)             Requested size: 151.3706pt x 117.74509pt.
+<figures/time_series_2016_2018/cr_swir_pixel_214_93_13.pdf, id=1521, 400.50691p
+t x 322.4663pt>
+File: figures/time_series_2016_2018/cr_swir_pixel_214_93_13.pdf Graphic file (t
+ype pdf)
+<use figures/time_series_2016_2018/cr_swir_pixel_214_93_13.pdf>
+Package pdftex.def Info: figures/time_series_2016_2018/cr_swir_pixel_214_93_13.
+pdf  used on input line 847.
+(pdftex.def)             Requested size: 151.3706pt x 121.87419pt.
+ [24
+
+ <./figures/time_series_2016_2018/rgb_compo_214_93_13.pdf> <./figures/time_seri
+es_2016_2018/reflectance_214_93_13.pdf> <./figures/time_series_2016_2018/cr_swi
+r_pixel_214_93_13.pdf>]
+<figures/time_series_2016_2018/rgb_compo_214_93_19.pdf, id=1605, 183.05435pt x 
+282.2838pt>
+File: figures/time_series_2016_2018/rgb_compo_214_93_19.pdf Graphic file (type 
+pdf)
+<use figures/time_series_2016_2018/rgb_compo_214_93_19.pdf>
+Package pdftex.def Info: figures/time_series_2016_2018/rgb_compo_214_93_19.pdf 
+ used on input line 847.
+(pdftex.def)             Requested size: 79.66649pt x 122.85275pt.
+<figures/time_series_2016_2018/reflectance_214_93_19.pdf, id=1606, 409.35344pt 
+x 318.4188pt>
+File: figures/time_series_2016_2018/reflectance_214_93_19.pdf Graphic file (typ
+e pdf)
+<use figures/time_series_2016_2018/reflectance_214_93_19.pdf>
+Package pdftex.def Info: figures/time_series_2016_2018/reflectance_214_93_19.pd
+f  used on input line 847.
+(pdftex.def)             Requested size: 151.3706pt x 117.74509pt.
+<figures/time_series_2016_2018/cr_swir_pixel_214_93_19.pdf, id=1607, 400.50691p
+t x 322.4663pt>
+File: figures/time_series_2016_2018/cr_swir_pixel_214_93_19.pdf Graphic file (t
+ype pdf)
+<use figures/time_series_2016_2018/cr_swir_pixel_214_93_19.pdf>
+Package pdftex.def Info: figures/time_series_2016_2018/cr_swir_pixel_214_93_19.
+pdf  used on input line 847.
+(pdftex.def)             Requested size: 151.3706pt x 121.87419pt.
+ [25
+
+ <./figures/time_series_2016_2018/rgb_compo_214_93_19.pdf> <./figures/time_seri
+es_2016_2018/reflectance_214_93_19.pdf> <./figures/time_series_2016_2018/cr_swi
+r_pixel_214_93_19.pdf>]
+<figures/time_series_2016_2018/rgb_compo_214_93_23.pdf, id=1690, 183.05435pt x 
+282.2838pt>
+File: figures/time_series_2016_2018/rgb_compo_214_93_23.pdf Graphic file (type 
+pdf)
+<use figures/time_series_2016_2018/rgb_compo_214_93_23.pdf>
+Package pdftex.def Info: figures/time_series_2016_2018/rgb_compo_214_93_23.pdf 
+ used on input line 847.
+(pdftex.def)             Requested size: 79.66649pt x 122.85275pt.
+<figures/time_series_2016_2018/reflectance_214_93_23.pdf, id=1691, 409.35344pt 
+x 318.4188pt>
+File: figures/time_series_2016_2018/reflectance_214_93_23.pdf Graphic file (typ
+e pdf)
+<use figures/time_series_2016_2018/reflectance_214_93_23.pdf>
+Package pdftex.def Info: figures/time_series_2016_2018/reflectance_214_93_23.pd
+f  used on input line 847.
+(pdftex.def)             Requested size: 151.3706pt x 117.74509pt.
+<figures/time_series_2016_2018/cr_swir_pixel_214_93_23.pdf, id=1692, 400.50691p
+t x 322.4663pt>
+File: figures/time_series_2016_2018/cr_swir_pixel_214_93_23.pdf Graphic file (t
+ype pdf)
+<use figures/time_series_2016_2018/cr_swir_pixel_214_93_23.pdf>
+Package pdftex.def Info: figures/time_series_2016_2018/cr_swir_pixel_214_93_23.
+pdf  used on input line 847.
+(pdftex.def)             Requested size: 151.3706pt x 121.87419pt.
+
+[26
+
+ <./figures/time_series_2016_2018/rgb_compo_214_93_23.pdf> <./figures/time_seri
+es_2016_2018/reflectance_214_93_23.pdf> <./figures/time_series_2016_2018/cr_swi
+r_pixel_214_93_23.pdf>]
+<figures/time_series_2016_2018/rgb_compo_214_93_27.pdf, id=1773, 183.05435pt x 
+282.2838pt>
+File: figures/time_series_2016_2018/rgb_compo_214_93_27.pdf Graphic file (type 
+pdf)
+<use figures/time_series_2016_2018/rgb_compo_214_93_27.pdf>
+Package pdftex.def Info: figures/time_series_2016_2018/rgb_compo_214_93_27.pdf 
+ used on input line 847.
+(pdftex.def)             Requested size: 79.66649pt x 122.85275pt.
+<figures/time_series_2016_2018/reflectance_214_93_27.pdf, id=1774, 409.35344pt 
+x 318.4188pt>
+File: figures/time_series_2016_2018/reflectance_214_93_27.pdf Graphic file (typ
+e pdf)
+<use figures/time_series_2016_2018/reflectance_214_93_27.pdf>
+Package pdftex.def Info: figures/time_series_2016_2018/reflectance_214_93_27.pd
+f  used on input line 847.
+(pdftex.def)             Requested size: 151.3706pt x 117.74509pt.
+<figures/time_series_2016_2018/cr_swir_pixel_214_93_27.pdf, id=1775, 400.50691p
+t x 322.4663pt>
+File: figures/time_series_2016_2018/cr_swir_pixel_214_93_27.pdf Graphic file (t
+ype pdf)
+<use figures/time_series_2016_2018/cr_swir_pixel_214_93_27.pdf>
+Package pdftex.def Info: figures/time_series_2016_2018/cr_swir_pixel_214_93_27.
+pdf  used on input line 847.
+(pdftex.def)             Requested size: 151.3706pt x 121.87419pt.
+ [27
+
+ <./figures/time_series_2016_2018/rgb_compo_214_93_27.pdf> <./figures/time_seri
+es_2016_2018/reflectance_214_93_27.pdf> <./figures/time_series_2016_2018/cr_swi
+r_pixel_214_93_27.pdf>]
+<figures/time_series_2016_2018/rgb_compo_214_93_34.pdf, id=1858, 183.05435pt x 
+282.2838pt>
+File: figures/time_series_2016_2018/rgb_compo_214_93_34.pdf Graphic file (type 
+pdf)
+<use figures/time_series_2016_2018/rgb_compo_214_93_34.pdf>
+Package pdftex.def Info: figures/time_series_2016_2018/rgb_compo_214_93_34.pdf 
+ used on input line 847.
+(pdftex.def)             Requested size: 79.66649pt x 122.85275pt.
+<figures/time_series_2016_2018/reflectance_214_93_34.pdf, id=1859, 409.35344pt 
+x 318.4188pt>
+File: figures/time_series_2016_2018/reflectance_214_93_34.pdf Graphic file (typ
+e pdf)
+<use figures/time_series_2016_2018/reflectance_214_93_34.pdf>
+Package pdftex.def Info: figures/time_series_2016_2018/reflectance_214_93_34.pd
+f  used on input line 847.
+(pdftex.def)             Requested size: 151.3706pt x 117.74509pt.
+<figures/time_series_2016_2018/cr_swir_pixel_214_93_34.pdf, id=1860, 400.50691p
+t x 322.4663pt>
+File: figures/time_series_2016_2018/cr_swir_pixel_214_93_34.pdf Graphic file (t
+ype pdf)
+<use figures/time_series_2016_2018/cr_swir_pixel_214_93_34.pdf>
+Package pdftex.def Info: figures/time_series_2016_2018/cr_swir_pixel_214_93_34.
+pdf  used on input line 847.
+(pdftex.def)             Requested size: 151.3706pt x 121.87419pt.
+ [28
+
+ <./figures/time_series_2016_2018/rgb_compo_214_93_34.pdf> <./figures/time_seri
+es_2016_2018/reflectance_214_93_34.pdf> <./figures/time_series_2016_2018/cr_swi
+r_pixel_214_93_34.pdf>]
+<figures/time_series_2016_2018/rgb_compo_214_93_40.pdf, id=1945, 183.05435pt x 
+282.2838pt>
+File: figures/time_series_2016_2018/rgb_compo_214_93_40.pdf Graphic file (type 
+pdf)
+<use figures/time_series_2016_2018/rgb_compo_214_93_40.pdf>
+Package pdftex.def Info: figures/time_series_2016_2018/rgb_compo_214_93_40.pdf 
+ used on input line 847.
+(pdftex.def)             Requested size: 79.66649pt x 122.85275pt.
+<figures/time_series_2016_2018/reflectance_214_93_40.pdf, id=1946, 409.35344pt 
+x 318.4188pt>
+File: figures/time_series_2016_2018/reflectance_214_93_40.pdf Graphic file (typ
+e pdf)
+<use figures/time_series_2016_2018/reflectance_214_93_40.pdf>
+Package pdftex.def Info: figures/time_series_2016_2018/reflectance_214_93_40.pd
+f  used on input line 847.
+(pdftex.def)             Requested size: 151.3706pt x 117.74509pt.
+<figures/time_series_2016_2018/cr_swir_pixel_214_93_40.pdf, id=1947, 400.50691p
+t x 322.4663pt>
+File: figures/time_series_2016_2018/cr_swir_pixel_214_93_40.pdf Graphic file (t
+ype pdf)
+<use figures/time_series_2016_2018/cr_swir_pixel_214_93_40.pdf>
+Package pdftex.def Info: figures/time_series_2016_2018/cr_swir_pixel_214_93_40.
+pdf  used on input line 847.
+(pdftex.def)             Requested size: 151.3706pt x 121.87419pt.
+ [29
+
+ <./figures/time_series_2016_2018/rgb_compo_214_93_40.pdf> <./figures/time_seri
+es_2016_2018/reflectance_214_93_40.pdf> <./figures/time_series_2016_2018/cr_swi
+r_pixel_214_93_40.pdf>]
+<figures/time_series_2016_2018/rgb_compo_214_93_47.pdf, id=2029, 183.05435pt x 
+282.2838pt>
+File: figures/time_series_2016_2018/rgb_compo_214_93_47.pdf Graphic file (type 
+pdf)
+<use figures/time_series_2016_2018/rgb_compo_214_93_47.pdf>
+Package pdftex.def Info: figures/time_series_2016_2018/rgb_compo_214_93_47.pdf 
+ used on input line 847.
+(pdftex.def)             Requested size: 79.66649pt x 122.85275pt.
+<figures/time_series_2016_2018/reflectance_214_93_47.pdf, id=2030, 409.35344pt 
+x 318.4188pt>
+File: figures/time_series_2016_2018/reflectance_214_93_47.pdf Graphic file (typ
+e pdf)
+<use figures/time_series_2016_2018/reflectance_214_93_47.pdf>
+Package pdftex.def Info: figures/time_series_2016_2018/reflectance_214_93_47.pd
+f  used on input line 847.
+(pdftex.def)             Requested size: 151.3706pt x 117.74509pt.
+<figures/time_series_2016_2018/cr_swir_pixel_214_93_47.pdf, id=2031, 400.50691p
+t x 322.4663pt>
+File: figures/time_series_2016_2018/cr_swir_pixel_214_93_47.pdf Graphic file (t
+ype pdf)
+<use figures/time_series_2016_2018/cr_swir_pixel_214_93_47.pdf>
+Package pdftex.def Info: figures/time_series_2016_2018/cr_swir_pixel_214_93_47.
+pdf  used on input line 847.
+(pdftex.def)             Requested size: 151.3706pt x 121.87419pt.
+ [30
+
+ <./figures/time_series_2016_2018/rgb_compo_214_93_47.pdf> <./figures/time_seri
+es_2016_2018/reflectance_214_93_47.pdf> <./figures/time_series_2016_2018/cr_swi
+r_pixel_214_93_47.pdf>]
+<figures/time_series_2016_2018/rgb_compo_214_93_63.pdf, id=2115, 183.05435pt x 
+282.2838pt>
+File: figures/time_series_2016_2018/rgb_compo_214_93_63.pdf Graphic file (type 
+pdf)
+<use figures/time_series_2016_2018/rgb_compo_214_93_63.pdf>
+Package pdftex.def Info: figures/time_series_2016_2018/rgb_compo_214_93_63.pdf 
+ used on input line 847.
+(pdftex.def)             Requested size: 79.66649pt x 122.85275pt.
+<figures/time_series_2016_2018/reflectance_214_93_63.pdf, id=2116, 409.35344pt 
+x 318.4188pt>
+File: figures/time_series_2016_2018/reflectance_214_93_63.pdf Graphic file (typ
+e pdf)
+<use figures/time_series_2016_2018/reflectance_214_93_63.pdf>
+Package pdftex.def Info: figures/time_series_2016_2018/reflectance_214_93_63.pd
+f  used on input line 847.
+(pdftex.def)             Requested size: 151.3706pt x 117.74509pt.
+<figures/time_series_2016_2018/cr_swir_pixel_214_93_63.pdf, id=2117, 400.50691p
+t x 322.4663pt>
+File: figures/time_series_2016_2018/cr_swir_pixel_214_93_63.pdf Graphic file (t
+ype pdf)
+<use figures/time_series_2016_2018/cr_swir_pixel_214_93_63.pdf>
+Package pdftex.def Info: figures/time_series_2016_2018/cr_swir_pixel_214_93_63.
+pdf  used on input line 847.
+(pdftex.def)             Requested size: 151.3706pt x 121.87419pt.
+ [31
+
+ <./figures/time_series_2016_2018/rgb_compo_214_93_63.pdf> <./figures/time_seri
+es_2016_2018/reflectance_214_93_63.pdf> <./figures/time_series_2016_2018/cr_swi
+r_pixel_214_93_63.pdf>]
+<figures/time_series_2018_2020/rgb_compo_214_93_2.pdf, id=2200, 183.05435pt x 2
+82.2838pt>
+File: figures/time_series_2018_2020/rgb_compo_214_93_2.pdf Graphic file (type p
+df)
+<use figures/time_series_2018_2020/rgb_compo_214_93_2.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/rgb_compo_214_93_2.pdf  
+used on input line 1057.
+(pdftex.def)             Requested size: 79.66649pt x 122.85275pt.
+<figures/time_series_2018_2020/reflectance_214_93_2.pdf, id=2201, 409.35344pt x
+ 318.4188pt>
+File: figures/time_series_2018_2020/reflectance_214_93_2.pdf Graphic file (type
+ pdf)
+<use figures/time_series_2018_2020/reflectance_214_93_2.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/reflectance_214_93_2.pdf
+  used on input line 1057.
+(pdftex.def)             Requested size: 151.3706pt x 117.74509pt.
+<figures/time_series_2018_2020/cr_swir_pixel_214_93_2.pdf, id=2202, 400.50691pt
+ x 322.4663pt>
+File: figures/time_series_2018_2020/cr_swir_pixel_214_93_2.pdf Graphic file (ty
+pe pdf)
+<use figures/time_series_2018_2020/cr_swir_pixel_214_93_2.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/cr_swir_pixel_214_93_2.p
+df  used on input line 1057.
+(pdftex.def)             Requested size: 151.3706pt x 121.87419pt.
+ [32
+
+ <./figures/time_series_2018_2020/rgb_compo_214_93_2.pdf> <./figures/time_serie
+s_2018_2020/reflectance_214_93_2.pdf> <./figures/time_series_2018_2020/cr_swir_
+pixel_214_93_2.pdf>]
+<figures/time_series_2018_2020/rgb_compo_214_93_4.pdf, id=2286, 183.05435pt x 2
+82.2838pt>
+File: figures/time_series_2018_2020/rgb_compo_214_93_4.pdf Graphic file (type p
+df)
+<use figures/time_series_2018_2020/rgb_compo_214_93_4.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/rgb_compo_214_93_4.pdf  
+used on input line 1057.
+(pdftex.def)             Requested size: 79.66649pt x 122.85275pt.
+<figures/time_series_2018_2020/reflectance_214_93_4.pdf, id=2287, 409.35344pt x
+ 318.4188pt>
+File: figures/time_series_2018_2020/reflectance_214_93_4.pdf Graphic file (type
+ pdf)
+<use figures/time_series_2018_2020/reflectance_214_93_4.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/reflectance_214_93_4.pdf
+  used on input line 1057.
+(pdftex.def)             Requested size: 151.3706pt x 117.74509pt.
+<figures/time_series_2018_2020/cr_swir_pixel_214_93_4.pdf, id=2288, 400.50691pt
+ x 322.4663pt>
+File: figures/time_series_2018_2020/cr_swir_pixel_214_93_4.pdf Graphic file (ty
+pe pdf)
+<use figures/time_series_2018_2020/cr_swir_pixel_214_93_4.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/cr_swir_pixel_214_93_4.p
+df  used on input line 1057.
+(pdftex.def)             Requested size: 151.3706pt x 121.87419pt.
+ [33
+
+ <./figures/time_series_2018_2020/rgb_compo_214_93_4.pdf> <./figures/time_serie
+s_2018_2020/reflectance_214_93_4.pdf> <./figures/time_series_2018_2020/cr_swir_
+pixel_214_93_4.pdf>]
+<figures/time_series_2018_2020/rgb_compo_214_93_9.pdf, id=2371, 183.05435pt x 2
+82.2838pt>
+File: figures/time_series_2018_2020/rgb_compo_214_93_9.pdf Graphic file (type p
+df)
+<use figures/time_series_2018_2020/rgb_compo_214_93_9.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/rgb_compo_214_93_9.pdf  
+used on input line 1057.
+(pdftex.def)             Requested size: 79.66649pt x 122.85275pt.
+<figures/time_series_2018_2020/reflectance_214_93_9.pdf, id=2372, 409.35344pt x
+ 318.4188pt>
+File: figures/time_series_2018_2020/reflectance_214_93_9.pdf Graphic file (type
+ pdf)
+<use figures/time_series_2018_2020/reflectance_214_93_9.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/reflectance_214_93_9.pdf
+  used on input line 1057.
+(pdftex.def)             Requested size: 151.3706pt x 117.74509pt.
+<figures/time_series_2018_2020/cr_swir_pixel_214_93_9.pdf, id=2373, 400.50691pt
+ x 322.4663pt>
+File: figures/time_series_2018_2020/cr_swir_pixel_214_93_9.pdf Graphic file (ty
+pe pdf)
+<use figures/time_series_2018_2020/cr_swir_pixel_214_93_9.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/cr_swir_pixel_214_93_9.p
+df  used on input line 1057.
+(pdftex.def)             Requested size: 151.3706pt x 121.87419pt.
+ [34
+
+ <./figures/time_series_2018_2020/rgb_compo_214_93_9.pdf> <./figures/time_serie
+s_2018_2020/reflectance_214_93_9.pdf> <./figures/time_series_2018_2020/cr_swir_
+pixel_214_93_9.pdf>]
+<figures/time_series_2018_2020/rgb_compo_214_93_19.pdf, id=2457, 183.05435pt x 
+282.2838pt>
+File: figures/time_series_2018_2020/rgb_compo_214_93_19.pdf Graphic file (type 
+pdf)
+<use figures/time_series_2018_2020/rgb_compo_214_93_19.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/rgb_compo_214_93_19.pdf 
+ used on input line 1057.
+(pdftex.def)             Requested size: 79.66649pt x 122.85275pt.
+<figures/time_series_2018_2020/reflectance_214_93_19.pdf, id=2458, 409.35344pt 
+x 318.4188pt>
+File: figures/time_series_2018_2020/reflectance_214_93_19.pdf Graphic file (typ
+e pdf)
+<use figures/time_series_2018_2020/reflectance_214_93_19.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/reflectance_214_93_19.pd
+f  used on input line 1057.
+(pdftex.def)             Requested size: 151.3706pt x 117.74509pt.
+<figures/time_series_2018_2020/cr_swir_pixel_214_93_19.pdf, id=2459, 400.50691p
+t x 322.4663pt>
+File: figures/time_series_2018_2020/cr_swir_pixel_214_93_19.pdf Graphic file (t
+ype pdf)
+<use figures/time_series_2018_2020/cr_swir_pixel_214_93_19.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/cr_swir_pixel_214_93_19.
+pdf  used on input line 1057.
+(pdftex.def)             Requested size: 151.3706pt x 121.87419pt.
+
+[35
+
+ <./figures/time_series_2018_2020/rgb_compo_214_93_19.pdf> <./figures/time_seri
+es_2018_2020/reflectance_214_93_19.pdf> <./figures/time_series_2018_2020/cr_swi
+r_pixel_214_93_19.pdf>]
+<figures/time_series_2018_2020/rgb_compo_214_93_29.pdf, id=2544, 183.05435pt x 
+282.2838pt>
+File: figures/time_series_2018_2020/rgb_compo_214_93_29.pdf Graphic file (type 
+pdf)
+<use figures/time_series_2018_2020/rgb_compo_214_93_29.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/rgb_compo_214_93_29.pdf 
+ used on input line 1057.
+(pdftex.def)             Requested size: 79.66649pt x 122.85275pt.
+<figures/time_series_2018_2020/reflectance_214_93_29.pdf, id=2545, 409.35344pt 
+x 318.4188pt>
+File: figures/time_series_2018_2020/reflectance_214_93_29.pdf Graphic file (typ
+e pdf)
+<use figures/time_series_2018_2020/reflectance_214_93_29.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/reflectance_214_93_29.pd
+f  used on input line 1057.
+(pdftex.def)             Requested size: 151.3706pt x 117.74509pt.
+<figures/time_series_2018_2020/cr_swir_pixel_214_93_29.pdf, id=2546, 400.50691p
+t x 322.4663pt>
+File: figures/time_series_2018_2020/cr_swir_pixel_214_93_29.pdf Graphic file (t
+ype pdf)
+<use figures/time_series_2018_2020/cr_swir_pixel_214_93_29.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/cr_swir_pixel_214_93_29.
+pdf  used on input line 1057.
+(pdftex.def)             Requested size: 151.3706pt x 121.87419pt.
+ [36
+
+ <./figures/time_series_2018_2020/rgb_compo_214_93_29.pdf> <./figures/time_seri
+es_2018_2020/reflectance_214_93_29.pdf> <./figures/time_series_2018_2020/cr_swi
+r_pixel_214_93_29.pdf>]
+<figures/time_series_2018_2020/rgb_compo_214_93_43.pdf, id=2630, 183.05435pt x 
+282.2838pt>
+File: figures/time_series_2018_2020/rgb_compo_214_93_43.pdf Graphic file (type 
+pdf)
+<use figures/time_series_2018_2020/rgb_compo_214_93_43.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/rgb_compo_214_93_43.pdf 
+ used on input line 1057.
+(pdftex.def)             Requested size: 79.66649pt x 122.85275pt.
+<figures/time_series_2018_2020/reflectance_214_93_43.pdf, id=2631, 409.35344pt 
+x 318.4188pt>
+File: figures/time_series_2018_2020/reflectance_214_93_43.pdf Graphic file (typ
+e pdf)
+<use figures/time_series_2018_2020/reflectance_214_93_43.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/reflectance_214_93_43.pd
+f  used on input line 1057.
+(pdftex.def)             Requested size: 151.3706pt x 117.74509pt.
+<figures/time_series_2018_2020/cr_swir_pixel_214_93_43.pdf, id=2632, 400.50691p
+t x 322.4663pt>
+File: figures/time_series_2018_2020/cr_swir_pixel_214_93_43.pdf Graphic file (t
+ype pdf)
+<use figures/time_series_2018_2020/cr_swir_pixel_214_93_43.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/cr_swir_pixel_214_93_43.
+pdf  used on input line 1057.
+(pdftex.def)             Requested size: 151.3706pt x 121.87419pt.
+ [37
+
+ <./figures/time_series_2018_2020/rgb_compo_214_93_43.pdf> <./figures/time_seri
+es_2018_2020/reflectance_214_93_43.pdf> <./figures/time_series_2018_2020/cr_swi
+r_pixel_214_93_43.pdf>]
+<figures/time_series_2018_2020/rgb_compo_214_93_50.pdf, id=2716, 183.05435pt x 
+282.2838pt>
+File: figures/time_series_2018_2020/rgb_compo_214_93_50.pdf Graphic file (type 
+pdf)
+<use figures/time_series_2018_2020/rgb_compo_214_93_50.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/rgb_compo_214_93_50.pdf 
+ used on input line 1057.
+(pdftex.def)             Requested size: 79.66649pt x 122.85275pt.
+<figures/time_series_2018_2020/reflectance_214_93_50.pdf, id=2717, 409.35344pt 
+x 318.4188pt>
+File: figures/time_series_2018_2020/reflectance_214_93_50.pdf Graphic file (typ
+e pdf)
+<use figures/time_series_2018_2020/reflectance_214_93_50.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/reflectance_214_93_50.pd
+f  used on input line 1057.
+(pdftex.def)             Requested size: 151.3706pt x 117.74509pt.
+<figures/time_series_2018_2020/cr_swir_pixel_214_93_50.pdf, id=2718, 400.50691p
+t x 322.4663pt>
+File: figures/time_series_2018_2020/cr_swir_pixel_214_93_50.pdf Graphic file (t
+ype pdf)
+<use figures/time_series_2018_2020/cr_swir_pixel_214_93_50.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/cr_swir_pixel_214_93_50.
+pdf  used on input line 1057.
+(pdftex.def)             Requested size: 151.3706pt x 121.87419pt.
+ [38
+
+ <./figures/time_series_2018_2020/rgb_compo_214_93_50.pdf> <./figures/time_seri
+es_2018_2020/reflectance_214_93_50.pdf> <./figures/time_series_2018_2020/cr_swi
+r_pixel_214_93_50.pdf>]
+<figures/time_series_2018_2020/rgb_compo_214_93_57.pdf, id=2801, 183.05435pt x 
+282.2838pt>
+File: figures/time_series_2018_2020/rgb_compo_214_93_57.pdf Graphic file (type 
+pdf)
+<use figures/time_series_2018_2020/rgb_compo_214_93_57.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/rgb_compo_214_93_57.pdf 
+ used on input line 1057.
+(pdftex.def)             Requested size: 79.66649pt x 122.85275pt.
+<figures/time_series_2018_2020/reflectance_214_93_57.pdf, id=2802, 409.35344pt 
+x 318.4188pt>
+File: figures/time_series_2018_2020/reflectance_214_93_57.pdf Graphic file (typ
+e pdf)
+<use figures/time_series_2018_2020/reflectance_214_93_57.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/reflectance_214_93_57.pd
+f  used on input line 1057.
+(pdftex.def)             Requested size: 151.3706pt x 117.74509pt.
+<figures/time_series_2018_2020/cr_swir_pixel_214_93_57.pdf, id=2803, 400.50691p
+t x 322.4663pt>
+File: figures/time_series_2018_2020/cr_swir_pixel_214_93_57.pdf Graphic file (t
+ype pdf)
+<use figures/time_series_2018_2020/cr_swir_pixel_214_93_57.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/cr_swir_pixel_214_93_57.
+pdf  used on input line 1057.
+(pdftex.def)             Requested size: 151.3706pt x 121.87419pt.
+ [39
+
+ <./figures/time_series_2018_2020/rgb_compo_214_93_57.pdf> <./figures/time_seri
+es_2018_2020/reflectance_214_93_57.pdf> <./figures/time_series_2018_2020/cr_swi
+r_pixel_214_93_57.pdf>]
+<figures/time_series_2018_2020/rgb_compo_214_93_63.pdf, id=2887, 183.05435pt x 
+282.2838pt>
+File: figures/time_series_2018_2020/rgb_compo_214_93_63.pdf Graphic file (type 
+pdf)
+<use figures/time_series_2018_2020/rgb_compo_214_93_63.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/rgb_compo_214_93_63.pdf 
+ used on input line 1057.
+(pdftex.def)             Requested size: 79.66649pt x 122.85275pt.
+<figures/time_series_2018_2020/reflectance_214_93_63.pdf, id=2888, 409.35344pt 
+x 318.4188pt>
+File: figures/time_series_2018_2020/reflectance_214_93_63.pdf Graphic file (typ
+e pdf)
+<use figures/time_series_2018_2020/reflectance_214_93_63.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/reflectance_214_93_63.pd
+f  used on input line 1057.
+(pdftex.def)             Requested size: 151.3706pt x 117.74509pt.
+<figures/time_series_2018_2020/cr_swir_pixel_214_93_63.pdf, id=2889, 400.50691p
+t x 322.4663pt>
+File: figures/time_series_2018_2020/cr_swir_pixel_214_93_63.pdf Graphic file (t
+ype pdf)
+<use figures/time_series_2018_2020/cr_swir_pixel_214_93_63.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/cr_swir_pixel_214_93_63.
+pdf  used on input line 1057.
+(pdftex.def)             Requested size: 151.3706pt x 121.87419pt.
+ [40
+
+ <./figures/time_series_2018_2020/rgb_compo_214_93_63.pdf> <./figures/time_seri
+es_2018_2020/reflectance_214_93_63.pdf> <./figures/time_series_2018_2020/cr_swi
+r_pixel_214_93_63.pdf>]
+<figures/time_series_2018_2020/rgb_compo_214_93_75.pdf, id=2974, 183.05435pt x 
+282.2838pt>
+File: figures/time_series_2018_2020/rgb_compo_214_93_75.pdf Graphic file (type 
+pdf)
+<use figures/time_series_2018_2020/rgb_compo_214_93_75.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/rgb_compo_214_93_75.pdf 
+ used on input line 1057.
+(pdftex.def)             Requested size: 79.66649pt x 122.85275pt.
+<figures/time_series_2018_2020/reflectance_214_93_75.pdf, id=2975, 409.35344pt 
+x 318.4188pt>
+File: figures/time_series_2018_2020/reflectance_214_93_75.pdf Graphic file (typ
+e pdf)
+<use figures/time_series_2018_2020/reflectance_214_93_75.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/reflectance_214_93_75.pd
+f  used on input line 1057.
+(pdftex.def)             Requested size: 151.3706pt x 117.74509pt.
+<figures/time_series_2018_2020/cr_swir_pixel_214_93_75.pdf, id=2976, 400.50691p
+t x 322.4663pt>
+File: figures/time_series_2018_2020/cr_swir_pixel_214_93_75.pdf Graphic file (t
+ype pdf)
+<use figures/time_series_2018_2020/cr_swir_pixel_214_93_75.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/cr_swir_pixel_214_93_75.
+pdf  used on input line 1057.
+(pdftex.def)             Requested size: 151.3706pt x 121.87419pt.
+ [41
+
+ <./figures/time_series_2018_2020/rgb_compo_214_93_75.pdf> <./figures/time_seri
+es_2018_2020/reflectance_214_93_75.pdf> <./figures/time_series_2018_2020/cr_swi
+r_pixel_214_93_75.pdf>]
+<figures/time_series_2018_2020/rgb_compo_214_93_83.pdf, id=3060, 183.05435pt x 
+282.2838pt>
+File: figures/time_series_2018_2020/rgb_compo_214_93_83.pdf Graphic file (type 
+pdf)
+<use figures/time_series_2018_2020/rgb_compo_214_93_83.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/rgb_compo_214_93_83.pdf 
+ used on input line 1057.
+(pdftex.def)             Requested size: 79.66649pt x 122.85275pt.
+<figures/time_series_2018_2020/reflectance_214_93_83.pdf, id=3061, 409.35344pt 
+x 318.4188pt>
+File: figures/time_series_2018_2020/reflectance_214_93_83.pdf Graphic file (typ
+e pdf)
+<use figures/time_series_2018_2020/reflectance_214_93_83.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/reflectance_214_93_83.pd
+f  used on input line 1057.
+(pdftex.def)             Requested size: 151.3706pt x 117.74509pt.
+<figures/time_series_2018_2020/cr_swir_pixel_214_93_83.pdf, id=3062, 400.50691p
+t x 322.4663pt>
+File: figures/time_series_2018_2020/cr_swir_pixel_214_93_83.pdf Graphic file (t
+ype pdf)
+<use figures/time_series_2018_2020/cr_swir_pixel_214_93_83.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/cr_swir_pixel_214_93_83.
+pdf  used on input line 1057.
+(pdftex.def)             Requested size: 151.3706pt x 121.87419pt.
+ [42
+
+ <./figures/time_series_2018_2020/rgb_compo_214_93_83.pdf> <./figures/time_seri
+es_2018_2020/reflectance_214_93_83.pdf> <./figures/time_series_2018_2020/cr_swi
+r_pixel_214_93_83.pdf>]
+<figures/time_series_2018_2020/rgb_compo_214_93_88.pdf, id=3147, 183.05435pt x 
+282.2838pt>
+File: figures/time_series_2018_2020/rgb_compo_214_93_88.pdf Graphic file (type 
+pdf)
+<use figures/time_series_2018_2020/rgb_compo_214_93_88.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/rgb_compo_214_93_88.pdf 
+ used on input line 1057.
+(pdftex.def)             Requested size: 79.66649pt x 122.85275pt.
+<figures/time_series_2018_2020/reflectance_214_93_88.pdf, id=3148, 409.35344pt 
+x 318.4188pt>
+File: figures/time_series_2018_2020/reflectance_214_93_88.pdf Graphic file (typ
+e pdf)
+<use figures/time_series_2018_2020/reflectance_214_93_88.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/reflectance_214_93_88.pd
+f  used on input line 1057.
+(pdftex.def)             Requested size: 151.3706pt x 117.74509pt.
+<figures/time_series_2018_2020/cr_swir_pixel_214_93_88.pdf, id=3149, 400.50691p
+t x 322.4663pt>
+File: figures/time_series_2018_2020/cr_swir_pixel_214_93_88.pdf Graphic file (t
+ype pdf)
+<use figures/time_series_2018_2020/cr_swir_pixel_214_93_88.pdf>
+Package pdftex.def Info: figures/time_series_2018_2020/cr_swir_pixel_214_93_88.
+pdf  used on input line 1057.
+(pdftex.def)             Requested size: 151.3706pt x 121.87419pt.
+ [43
+
+ <./figures/time_series_2018_2020/rgb_compo_214_93_88.pdf> <./figures/time_seri
+es_2018_2020/reflectance_214_93_88.pdf> <./figures/time_series_2018_2020/cr_swi
+r_pixel_214_93_88.pdf>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1059.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 1059.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1059.
+
+[44
+
+] [45
+
+] [46
+
+] [47
+
+] [48
+
+]
+<figures/model/cr_swir_pixel_38_184_conf_int.pdf, id=3273, 400.94966pt x 322.46
+63pt>
+File: figures/model/cr_swir_pixel_38_184_conf_int.pdf Graphic file (type pdf)
+<use figures/model/cr_swir_pixel_38_184_conf_int.pdf>
+Package pdftex.def Info: figures/model/cr_swir_pixel_38_184_conf_int.pdf  used 
+on input line 1121.
+(pdftex.def)             Requested size: 119.50279pt x 96.11081pt.
+ [49
+
+ <./figures/model/cr_swir_pixel_38_184_conf_int.pdf>]
+<figures/model/cr_swir_pixel_38_184_pred_int.pdf, id=3320, 400.94966pt x 322.46
+63pt>
+File: figures/model/cr_swir_pixel_38_184_pred_int.pdf Graphic file (type pdf)
+<use figures/model/cr_swir_pixel_38_184_pred_int.pdf>
+Package pdftex.def Info: figures/model/cr_swir_pixel_38_184_pred_int.pdf  used 
+on input line 1141.
+(pdftex.def)             Requested size: 119.50279pt x 96.11081pt.
+ [50
+
+ <./figures/model/cr_swir_pixel_38_184_pred_int.pdf>]
+<figures/model/cr_swir_pixel_38_184.pdf, id=3366, 427.9896pt x 322.4663pt>
+File: figures/model/cr_swir_pixel_38_184.pdf Graphic file (type pdf)
+<use figures/model/cr_swir_pixel_38_184.pdf>
+Package pdftex.def Info: figures/model/cr_swir_pixel_38_184.pdf  used on input 
+line 1161.
+(pdftex.def)             Requested size: 179.25114pt x 135.05605pt.
+<figures/model/cr_swir_pixel_212_104.pdf, id=3367, 427.9896pt x 322.4663pt>
+File: figures/model/cr_swir_pixel_212_104.pdf Graphic file (type pdf)
+<use figures/model/cr_swir_pixel_212_104.pdf>
+Package pdftex.def Info: figures/model/cr_swir_pixel_212_104.pdf  used on input
+ line 1161.
+(pdftex.def)             Requested size: 179.25114pt x 135.05605pt.
+ [51
+
+ <./figures/model/cr_swir_pixel_38_184.pdf> <./figures/model/cr_swir_pixel_212_
+104.pdf>]
+<figures/carte_scolyte.png, id=3451, 1550.79375pt x 629.35126pt>
+File: figures/carte_scolyte.png Graphic file (type png)
+<use figures/carte_scolyte.png>
+Package pdftex.def Info: figures/carte_scolyte.png  used on input line 1175.
+(pdftex.def)             Requested size: 318.67209pt x 129.32513pt.
+
+[52
+
+ <./figures/carte_scolyte.png>] [53
 
 ]
 \tf@nav=\write7
@@ -1672,27 +2854,47 @@ Package pdftex.def Info: figures/ajol_2020.png  used on input line 341.
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
 Package rerunfilecheck Info: File `tree_dieback_detection.out' has not changed.
 
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+(rerunfilecheck)             Checksum: 8E834B348DDE7BC01BFB010AE5F84A67;1417.
  ) 
 Here is how much of TeX's memory you used:
- 27954 strings out of 474222
- 547643 string characters out of 5748733
- 1935975 words of memory out of 5000000
- 49640 multiletter control sequences out of 15000+600000
- 571517 words of font info for 83 fonts, out of 8000000 for 9000
+ 29149 strings out of 474222
+ 605483 string characters out of 5748733
+ 1938975 words of memory out of 5000000
+ 50720 multiletter control sequences out of 15000+600000
+ 578981 words of font info for 108 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,15n,123p,486b,848s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb></usr/share/texlive/texmf
--dist/fonts/type1/public/mathabx-type1/matha9.pfb>
-Output written on tree_dieback_detection.pdf (6 pages, 917309 bytes).
+ 128i,15n,123p,443b,860s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib9.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmss9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+ssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi9.pfb><
+/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/public/mathabx-type1/matha6.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/mathabx-type1/matha7.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/mathabx-type1/matha9.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/mathabx-type1/mathb9.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/mathabx-type1/mathx10.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/symbols/msbm10.pfb>
+Output written on tree_dieback_detection.pdf (53 pages, 9502791 bytes).
 PDF statistics:
- 100 PDF objects out of 1000 (max. 8388607)
- 61 compressed objects within 1 object stream
- 13 named destinations out of 1000 (max. 500000)
- 88 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 3587 PDF objects out of 4296 (max. 8388607)
+ 1168 compressed objects within 12 object streams
+ 113 named destinations out of 1000 (max. 500000)
+ 721 words of extra memory for PDF output out of 10000 (max. 10000000)
 

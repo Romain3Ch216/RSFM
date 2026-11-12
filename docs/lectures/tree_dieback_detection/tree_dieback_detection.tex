@@ -123,6 +123,12 @@
 \definecolor{pousse}{HTML}{00b57b}
 \definecolor{ardoise}{HTML}{5b6770}
 
+\definecolor{nir}{HTML}{bf0041}
+\definecolor{red}{HTML}{ff0000}
+\definecolor{swir1}{HTML}{8d1d75}
+\definecolor{cont}{HTML}{ff8000}
+\definecolor{swir2}{HTML}{e16173}
+
 \usepackage{comment}
 \usepackage{subcaption}
 \usepackage{bibentry}
@@ -270,17 +276,25 @@
 \tableofcontents
 \end{frame}
 %---------------------------------------------------------------------------
-
+\section{Bibliography and references}
+%---------------------------------------------------------------------------
 \begin{frame}{Bibliography and references}
 
 \begin{itemize}[label=$\bullet$]
-	\item This lecture is largely based on the presentation "Détection des problèmes sanitaires des forêts par imagerie satellite optique: principes et application au cas des scolytes de l’épicéa" by JB Féret, R Dutrieux, K Ose \& F de Boissieu in October 4, 2022 at Atelier Theia (\url{https://www.theia-land.fr/foret/2022-sante-foret/}) and associated publication (\url{https://www.onf.fr/onf/+/cec::les-rendez-vous-techniques-de-lonf-no69-70.html}).
+	\item "Détection des problèmes sanitaires des forêts par imagerie satellite optique: principes et application au cas des scolytes de l’épicéa" by JB Féret, R Dutrieux, K Ose \& F de Boissieu in October 4, 2022 at Atelier Theia (\url{https://www.theia-land.fr/foret/2022-sante-foret/}) and on the associated publication (\url{https://www.onf.fr/onf/+/cec::les-rendez-vous-techniques-de-lonf-no69-70.html}),
+	\item \url{https://waldschutz.wsl.ch/fr/foret/maladies-nuisibles-perturbations/organismes-nuisibles-a-la-sante-des-forets/le-typographe/}
 \end{itemize}
 
 
 \end{frame}
 %--------------------------------------------------------------------------
+\section{Monitoring of bark beetle infestations from satellite images}
+%---------------------------------------------------------------------------
 \begin{frame}{Bark beetle infestation}
+
+$\blacktriangleright$ Infestations are fostered by events such as \textbf{storms or droughts}, which knock down or weaken trees.  \vspace{0.2cm}
+
+$\blacktriangleright$ The intensive boring by larvae and young beetles beneath the bark \textbf{disrupts the flow of sap} in the trees. In addition, the beetles are associated with fungi that \textbf{clog the vessels that transport water, leading to the tree dieback.}
 
 \begin{columns}
 
@@ -293,12 +307,12 @@
 \end{figure}
 
 
-\column{0.4\textwidth}
+\column{0.25\textwidth}
 
 \begin{figure}
 	\center
 	\includegraphics[width=0.5\textwidth]{figures/Ips_typographicus_2_meyers_1888_v16_p352.jpeg}
-	\caption{The architecture of the tunnel system varies by species. In the typograph moth, the egg-laying tunnels are generally vertical, while the larval tunnels are horizontal and winding. Source: Wikipedia\footnotemark[1]}
+	\caption{Architecture of the tunnel system for a typograph moth, a typical dark beetle. Source: Wikipedia\footnotemark[1]}
 \end{figure}
 
 \column{0.3\textwidth}
@@ -314,9 +328,22 @@
 
 \footnotetext[1]{Meyers Konversations-Lexikon, 4. Aufl. 1888, Bd. 16, S. 352, Ausschnitt aus Tafel Waldverderber I (Käfer); Bd. 16, S. 352 aus Konversations-Lexikon im www[lien cassé], Domaine public, https://commons.wikimedia.org/w/index.php?curid=275883}
 
+% https://waldschutz.wsl.ch/fr/foret/maladies-nuisibles-perturbations/organismes-nuisibles-a-la-sante-des-forets/le-typographe/
+
+%Cet insecte brun foncé d'environ 5 mm de long colonise presque exclusivement les épicéas. Les mâles partent en pionnier à la recherche de tels arbres. Ils sont attirés par des substances odorantes émanant des tissus corticaux de ces arbres et par les substances sécrétées par leurs congénères (phéromones).
+%
+%Après avoir foré un couloir d'entrée, les mâles, partis en pionniers, aménagent une chambre nuptial, où se déroulera l'accouplement. Les femelles creusent ensuite des galeries maternelles le long du tronc et y pondent leurs oeufs. Ces galeries et celles creusées plus tard par les larves pour se nourrir forment le réseau typique de cette espèce.
+%
+%En quelques semaines, les larves se transforment en nymphes puis en jeunes adultes. Ceux-ci poursuivent leur maturation en forant sous l'écorce pour se nourrir, puis essaiment et cherchent de nouveaux sites de ponte.
+%
+
 \end{frame}
 %--------------------------------------------------------------------------
 \begin{frame}{Monitoring of bark beetle infestation from multispectral satellite images}
+
+$\blacktriangleright$ Remote sensing is highly relevant to \textbf{monitor spatial and temporal dynamics} across large forested areas. \vspace{0.2cm}
+
+$\blacktriangleright$ Among the wide variety of available sensors, the multispectral instrument of Sentinel-2 offers a very good \textbf{balance between spatial resolution, spectral coverage, and revisit frequency}.
 
 \begin{figure}
 	\center
@@ -337,6 +364,813 @@
 	\end{subfigure}
 	\caption{RGB composition of Sentinel-2 images (ESA, Copernicus) - Val d'Ajol, France}
 \end{figure}
+
+\end{frame}
+%--------------------------------------------------------------------------
+\subsection{Spectral indices}
+%--------------------------------------------------------------------------
+\begin{frame}{Reflectance provides information about the properties of vegetation}
+
+$\blacktriangleright$ The reflectance estimated from Sentinel-2 images provides information about many properties of the vegetation. In particular, some \textbf{spectral indices, \textit{i.e.} normalized combination of bands, are highly correlated with some leaf traits}. \vspace{0.2cm}
+
+$\blacktriangleright$ For instance, the Normalized Difference Vegetation Index (NDVI) is correlated to the chlorophyll content of vegetation and to the structure of plant cover:
+\begin{align*}
+	\text{NDVI} = \frac{\textcolor{nir}{\rho_{\text{NIR}}} - \textcolor{red}{\rho_{\text{R}}}}{\textcolor{nir}{\rho_{\text{NIR}}} + \textcolor{red}{\rho_{\text{R}}}}
+\end{align*}
+where $\rho_{\text{NIR}}$ and $\rho_{\text{R}}$ denote the reflectance in the near infrared (B8 of S2) and in the red (B4 of S2), respectively. 
+
+\begin{figure}
+	\center
+	\begin{subfigure}{0.3\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/reflectance_143_98_2.pdf}
+		\caption{NDVI = 0.55}
+	\end{subfigure}
+	\begin{subfigure}{0.3\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/reflectance_143_98_9.pdf}
+		\caption{NDVI = 0.78}
+	\end{subfigure}
+\end{figure}
+
+
+\end{frame}
+%--------------------------------------------------------------------------
+\begin{frame}{Reflectance provides information about the properties of vegetation}
+
+$\blacktriangleright$ The spectral index CR$_{\text{SWIR}}$ (Continuum Removal in Short-Wave InfraRed) is correlated to the \textbf{water content of vegetation}:
+\begin{align*}
+	\text{CR}_{\text{SWIR}} = \frac{\textcolor{swir1}{\rho_{\text{SWIR1}}}} {\textcolor{cont}{\rho_{\text{continuum}}}}
+\end{align*}
+where $\rho_{\text{SWIR1}}$ denotes the reflectance at 1610 nm (B11 of S2), and 
+\begin{align*}
+	\textcolor{cont}{\rho_{\text{continuum}}} = \textcolor{swir1}{\rho_{\text{SWIR1}}} + (\lambda_{\text{SWIR1}} - \lambda_{\text{NIR2}}) \: \frac{\textcolor{swir2}{\rho_{\text{SWIR2}}} - \textcolor{nir}{\rho_{\text{NIR2}}}}{\lambda_{\text{SWIR2}} - \lambda_{\text{NIR2}}}
+\end{align*}
+ $\rho_{\text{R}}$ denote the reflectance in the near infrared (B8 of S2) and in the red (B4 of S2), respectively. 
+
+\begin{figure}
+	\center
+	\begin{subfigure}{0.3\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/reflectance_143_98_2_cr.pdf}
+		\caption{CR$_{\text{SWIR}} \approx 1$}
+	\end{subfigure}
+	\begin{subfigure}{0.3\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/reflectance_143_98_9_cr.pdf}
+		\caption{CR$_{\text{SWIR}} < 1$}
+	\end{subfigure}
+\end{figure}
+
+
+\end{frame}
+%--------------------------------------------------------------------------
+\subsection{Phenology of vegetation: the dynamics of CR$_{\text{SWIR}}$}
+%--------------------------------------------------------------------------
+\begin{frame}{Phenology of vegetation: the dynamics of CR$_{\text{SWIR}}$ on healthy vegetation}
+
+
+\only<1>{
+\begin{figure}
+	\center
+	\begin{subfigure}{0.2\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/rgb_compo_143_98_2.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/reflectance_143_98_2.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/cr_swir_pixel_143_98_2.pdf}
+	\end{subfigure}
+\end{figure}}
+
+
+\only<2>{
+\begin{figure}
+	\center
+	\begin{subfigure}{0.2\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/rgb_compo_143_98_4.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/reflectance_143_98_4.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/cr_swir_pixel_143_98_4.pdf}
+	\end{subfigure}
+\end{figure}}
+
+\only<3>{
+\begin{figure}
+	\center
+	\begin{subfigure}{0.2\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/rgb_compo_143_98_9.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/reflectance_143_98_9.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/cr_swir_pixel_143_98_9.pdf}
+	\end{subfigure}
+\end{figure}}
+
+\only<4>{
+\begin{figure}
+	\center
+	\begin{subfigure}{0.2\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/rgb_compo_143_98_19.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/reflectance_143_98_19.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/cr_swir_pixel_143_98_19.pdf}
+	\end{subfigure}
+\end{figure}}
+
+\only<5>{
+\begin{figure}
+	\center
+	\begin{subfigure}{0.2\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/rgb_compo_143_98_29.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/reflectance_143_98_29.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/cr_swir_pixel_143_98_29.pdf}
+	\end{subfigure}
+\end{figure}}
+
+\only<6>{
+\begin{figure}
+	\center
+	\begin{subfigure}{0.2\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/rgb_compo_143_98_43.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/reflectance_143_98_43.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/cr_swir_pixel_143_98_43.pdf}
+	\end{subfigure}
+\end{figure}}
+
+\only<7>{
+\begin{figure}
+	\center
+	\begin{subfigure}{0.2\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/rgb_compo_143_98_50.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/reflectance_143_98_50.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/cr_swir_pixel_143_98_50.pdf}
+	\end{subfigure}
+\end{figure}}
+
+\only<8>{
+\begin{figure}
+	\center
+	\begin{subfigure}{0.2\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/rgb_compo_143_98_57.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/reflectance_143_98_57.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/cr_swir_pixel_143_98_57.pdf}
+	\end{subfigure}
+\end{figure}}
+
+\only<9>{
+\begin{figure}
+	\center
+	\begin{subfigure}{0.2\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/rgb_compo_143_98_63.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/reflectance_143_98_63.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/cr_swir_pixel_143_98_63.pdf}
+	\end{subfigure}
+\end{figure}}
+
+\only<10>{
+\begin{figure}
+	\center
+	\begin{subfigure}{0.2\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/rgb_compo_143_98_75.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/reflectance_143_98_75.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/cr_swir_pixel_143_98_75.pdf}
+	\end{subfigure}
+\end{figure}}
+
+\only<11>{
+\begin{figure}
+	\center
+	\begin{subfigure}{0.2\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/rgb_compo_143_98_83.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/reflectance_143_98_83.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/cr_swir_pixel_143_98_83.pdf}
+	\end{subfigure}
+\end{figure}}
+
+\only<12>{
+\begin{figure}
+	\center
+	\begin{subfigure}{0.2\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/rgb_compo_143_98_88.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/reflectance_143_98_88.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/cr_swir_pixel_143_98_88.pdf}
+	\end{subfigure}
+\end{figure}}
+
+\end{frame}
+%--------------------------------------------------------------------------
+\begin{frame}{Phenology of vegetation: the dynamics of CR$_{\text{SWIR}}$ on healthy vegetation}
+
+\only<1>{
+\begin{figure}
+	\center
+	\begin{subfigure}{0.2\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2016_2018/rgb_compo_214_93_0.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2016_2018/reflectance_214_93_0.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2016_2018/cr_swir_pixel_214_93_0.pdf}
+	\end{subfigure}
+\end{figure}}
+
+
+\only<2>{
+\begin{figure}
+	\center
+	\begin{subfigure}{0.2\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2016_2018/rgb_compo_214_93_3.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2016_2018/reflectance_214_93_3.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2016_2018/cr_swir_pixel_214_93_3.pdf}
+	\end{subfigure}
+\end{figure}}
+
+\only<3>{
+\begin{figure}
+	\center
+	\begin{subfigure}{0.2\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2016_2018/rgb_compo_214_93_6.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2016_2018/reflectance_214_93_6.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2016_2018/cr_swir_pixel_214_93_6.pdf}
+	\end{subfigure}
+\end{figure}}
+
+\only<4>{
+\begin{figure}
+	\center
+	\begin{subfigure}{0.2\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2016_2018/rgb_compo_214_93_9.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2016_2018/reflectance_214_93_9.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2016_2018/cr_swir_pixel_214_93_9.pdf}
+	\end{subfigure}
+\end{figure}}
+
+\only<5>{
+\begin{figure}
+	\center
+	\begin{subfigure}{0.2\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2016_2018/rgb_compo_214_93_13.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2016_2018/reflectance_214_93_13.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2016_2018/cr_swir_pixel_214_93_13.pdf}
+	\end{subfigure}
+\end{figure}}
+
+\only<6>{
+\begin{figure}
+	\center
+	\begin{subfigure}{0.2\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2016_2018/rgb_compo_214_93_19.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2016_2018/reflectance_214_93_19.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2016_2018/cr_swir_pixel_214_93_19.pdf}
+	\end{subfigure}
+\end{figure}}
+
+\only<7>{
+\begin{figure}
+	\center
+	\begin{subfigure}{0.2\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2016_2018/rgb_compo_214_93_23.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2016_2018/reflectance_214_93_23.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2016_2018/cr_swir_pixel_214_93_23.pdf}
+	\end{subfigure}
+\end{figure}}
+
+\only<8>{
+\begin{figure}
+	\center
+	\begin{subfigure}{0.2\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2016_2018/rgb_compo_214_93_27.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2016_2018/reflectance_214_93_27.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2016_2018/cr_swir_pixel_214_93_27.pdf}
+	\end{subfigure}
+\end{figure}}
+
+\only<9>{
+\begin{figure}
+	\center
+	\begin{subfigure}{0.2\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2016_2018/rgb_compo_214_93_34.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2016_2018/reflectance_214_93_34.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2016_2018/cr_swir_pixel_214_93_34.pdf}
+	\end{subfigure}
+\end{figure}}
+
+\only<10>{
+\begin{figure}
+	\center
+	\begin{subfigure}{0.2\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2016_2018/rgb_compo_214_93_40.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2016_2018/reflectance_214_93_40.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2016_2018/cr_swir_pixel_214_93_40.pdf}
+	\end{subfigure}
+\end{figure}}
+
+\only<11>{
+\begin{figure}
+	\center
+	\begin{subfigure}{0.2\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2016_2018/rgb_compo_214_93_47.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2016_2018/reflectance_214_93_47.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2016_2018/cr_swir_pixel_214_93_47.pdf}
+	\end{subfigure}
+\end{figure}}
+
+\only<12>{
+\begin{figure}
+	\center
+	\begin{subfigure}{0.2\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2016_2018/rgb_compo_214_93_63.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2016_2018/reflectance_214_93_63.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2016_2018/cr_swir_pixel_214_93_63.pdf}
+	\end{subfigure}
+\end{figure}}
+
+\end{frame}
+%--------------------------------------------------------------------------
+\begin{frame}{Phenology of vegetation: the dynamics of CR$_{\text{SWIR}}$ on infested vegetation}
+
+
+\only<1>{
+\begin{figure}
+	\center
+	\begin{subfigure}{0.2\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/rgb_compo_214_93_2.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/reflectance_214_93_2.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/cr_swir_pixel_214_93_2.pdf}
+	\end{subfigure}
+\end{figure}}
+
+
+\only<2>{
+\begin{figure}
+	\center
+	\begin{subfigure}{0.2\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/rgb_compo_214_93_4.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/reflectance_214_93_4.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/cr_swir_pixel_214_93_4.pdf}
+	\end{subfigure}
+\end{figure}}
+
+\only<3>{
+\begin{figure}
+	\center
+	\begin{subfigure}{0.2\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/rgb_compo_214_93_9.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/reflectance_214_93_9.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/cr_swir_pixel_214_93_9.pdf}
+	\end{subfigure}
+\end{figure}}
+
+\only<4>{
+\begin{figure}
+	\center
+	\begin{subfigure}{0.2\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/rgb_compo_214_93_19.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/reflectance_214_93_19.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/cr_swir_pixel_214_93_19.pdf}
+	\end{subfigure}
+\end{figure}}
+
+\only<5>{
+\begin{figure}
+	\center
+	\begin{subfigure}{0.2\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/rgb_compo_214_93_29.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/reflectance_214_93_29.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/cr_swir_pixel_214_93_29.pdf}
+	\end{subfigure}
+\end{figure}}
+
+\only<6>{
+\begin{figure}
+	\center
+	\begin{subfigure}{0.2\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/rgb_compo_214_93_43.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/reflectance_214_93_43.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/cr_swir_pixel_214_93_43.pdf}
+	\end{subfigure}
+\end{figure}}
+
+\only<7>{
+\begin{figure}
+	\center
+	\begin{subfigure}{0.2\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/rgb_compo_214_93_50.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/reflectance_214_93_50.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/cr_swir_pixel_214_93_50.pdf}
+	\end{subfigure}
+\end{figure}}
+
+\only<8>{
+\begin{figure}
+	\center
+	\begin{subfigure}{0.2\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/rgb_compo_214_93_57.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/reflectance_214_93_57.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/cr_swir_pixel_214_93_57.pdf}
+	\end{subfigure}
+\end{figure}}
+
+\only<9>{
+\begin{figure}
+	\center
+	\begin{subfigure}{0.2\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/rgb_compo_214_93_63.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/reflectance_214_93_63.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/cr_swir_pixel_214_93_63.pdf}
+	\end{subfigure}
+\end{figure}}
+
+\only<10>{
+\begin{figure}
+	\center
+	\begin{subfigure}{0.2\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/rgb_compo_214_93_75.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/reflectance_214_93_75.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/cr_swir_pixel_214_93_75.pdf}
+	\end{subfigure}
+\end{figure}}
+
+\only<11>{
+\begin{figure}
+	\center
+	\begin{subfigure}{0.2\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/rgb_compo_214_93_83.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/reflectance_214_93_83.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/cr_swir_pixel_214_93_83.pdf}
+	\end{subfigure}
+\end{figure}}
+
+\only<12>{
+\begin{figure}
+	\center
+	\begin{subfigure}{0.2\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/rgb_compo_214_93_88.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/reflectance_214_93_88.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.38\textwidth}
+		\center
+		\includegraphics[width=\textwidth]{figures/time_series_2018_2020/cr_swir_pixel_214_93_88.pdf}
+	\end{subfigure}
+\end{figure}}
+
+\end{frame}
+%--------------------------------------------------------------------------
+\subsection{Modeling the expected dynamics of CR$_{\text{SWIR}}$}
+%--------------------------------------------------------------------------
+\begin{frame}{Modeling CR$_{\text{SWIR}}$ with a harmonic model (Féret et al., 2022)}
+
+$\blacktriangleright$ We have seen that the dynamics of CR$_{\text{SWIR}}$ for healthy vegetation can be assumed periodic with period $T = 365.25$ days. It is therefore reasonable to model the expected CR$_{\text{SWIR}}$ as a partial sum of a Fourier series:
+\begin{align*}
+	\mathbb{E}[\text{CR}_{\text{SWIR}}(\text{day})] = \beta_0 + \sum_{n=1}^N \beta_{2n-1} \cos\!\left(2 \pi \frac{n}{T}\text{day}\right) +  \beta_{2n} \sin\!\left(2 \pi \frac{n}{T}\text{day}\right).
+\end{align*}
+
+% \vspace{0.2cm}
+
+
+$\blacktriangleright$ \textit{How can we re-write the expected CR$_{\text{SWIR}}$? How many terms should we keep in the sum?}
+
+%$\blacktriangleright$ Let's model CR$_{\text{SWIR}}$ as a continuous random variable $Y$ defined as
+%\begin{align*}
+%	Y = \boldsymbol{X}\boldsymbol{\beta} + \epsilon.
+%\end{align*}
+%
+%$\blacktriangleright$ \textit{What are $\boldsymbol{X}$ and $\boldsymbol{\beta}$?}
+
+\end{frame}
+%--------------------------------------------------------------------------
+\begin{frame}{Modeling CR$_{\text{SWIR}}$ with a harmonic model (Féret et al., 2022)}
+
+$\blacktriangleright$ Let us consider a \textbf{2-year CR$_{\text{SWIR}}$ time series} as a sample $\{(X_i, Y_i)\}_{(i=1,\ldots,n)}$, where $X_i$ denotes the day of year since a reference date and $Y_i$ denotes CR$_{\text{SWIR}}$ at this day. \vspace{0.2cm}
+
+\visible<2->{
+$\blacktriangleright$ Let's consider the following \textbf{linear model}
+\begin{align*}
+    % Y_i & = \beta_0 + \beta_1 \cos\!\left(2 \pi \frac{1}{T}X_i\right) + \beta_2 \sin\!\left(2 \pi \frac{1}{T}X_i\right) + \beta_3 \cos\!\left(2 \pi \frac{2}{T}X_i\right) + \beta_4 \sin\!\left(2 \pi \frac{2}{T}X_i\right) + \epsilon_i \\
+    Y_i & = \boldsymbol{\beta}^T \boldsymbol{X}_i + \epsilon_i
+\end{align*}
+where the errors $\epsilon_1, \ldots, \epsilon_n$ are assumed \textbf{independent and identically distributed} with $\epsilon_i \sim \mathcal{N}(0, \sigma^2)$, and
+$\boldsymbol{X}_i = \begin{bmatrix}1 & \cos(\frac{2\pi}{T}X_i) & \sin(\frac{2\pi}{T}X_i) & \cos(\frac{4\pi}{T}X_i) & \sin(\frac{4\pi}{T}X_i) \end{bmatrix}^T$ and
+$\boldsymbol{\beta} = \begin{bmatrix}\beta_0 & \beta_1 & \beta_2 & \beta_3 & \beta_4 \end{bmatrix}^T$. \vspace{0.2cm}
+}
+
+\visible<3->{
+Under this model, $\mathbb{E}[Y_i | X_i] = \boldsymbol{\beta}^T \boldsymbol{X}_i$: the harmonic terms capture the \textbf{seasonal trajectory} of CR$_{\text{SWIR}}$, and $\beta_0$ its annual mean level.} \vspace{0.2cm}
+
+\visible<4>{
+$\blacktriangleright$ Let us denote by $\boldsymbol{\hat{\beta}}$ the estimator of $\boldsymbol{\beta}$ obtained by ordinary least squares regression. For a day $X_0$, the estimated expected CR$_{\text{SWIR}}$ is $\hat{Y}_0 = \boldsymbol{\hat{\beta}}^T \boldsymbol{X}_0$. \vspace{0.2cm}
+}
+
+\end{frame}
+%--------------------------------------------------------------------------
+\begin{frame}{Confidence interval on the expected response}
+
+$\blacktriangleright$ $\hat{Y}_0$ is a random variable and we can show that it follows a Normal distribution with mean equal to $\boldsymbol{\beta}^T \boldsymbol{X}_0$ and variance equal to $\sigma^2 \boldsymbol{X}_0^T (\boldsymbol{X}^T \boldsymbol{X})^{-1}\boldsymbol{X}_0$, where $\sigma^2$ is the variance of the residual error. It follows that a confidence interval at a confidence level $1-\alpha$ is:
+\begin{align*}
+	\boldsymbol{\hat{\beta}}^T \boldsymbol{X}_0 \pm t_{n-p, 1 - \alpha /2} \hat{\sigma}\sqrt{\boldsymbol{X}_0^T (\boldsymbol{X}^T \boldsymbol{X})^{-1}\boldsymbol{X}_0}
+\end{align*}
+where $\hat{\sigma}^2$ is the estimated variance of the residual error, $n$ is the size of the sample, $p$ the number of features, and $t_{n-p, 1 - \alpha /2}$ denotes the quantile of level $1 - \alpha /2$ of a Student distribution with $n-p$ degrees of freedom.
+
+\begin{figure}
+	\center
+	\includegraphics[width=0.3\textwidth]{figures/model/cr_swir_pixel_38_184_conf_int.pdf}
+\end{figure}
+
+$\blacktriangleright$ If we had a very large number of samples $\{(X_i, Y_i)\}_{(i=1, \ldots, n)}$, 95\% of the confidence intervals constructed using these samples \textbf{would actually contain the true model response} $\boldsymbol{\beta} \boldsymbol{X}_0$.
+
+\end{frame}
+%--------------------------------------------------------------------------
+\begin{frame}{Prediction interval}
+
+$\blacktriangleright$ In order to obtain an interval in which a new $Y_0$ is expected to fall, we have to take into account the uncertainty on the expected response \textbf{and} the uncertainty on the residual error:
+\begin{align*}
+	Y_0 - \hat{Y}_0 = (\boldsymbol{\beta} - \hat{\boldsymbol{\beta}})^T \boldsymbol{X}_0 + \epsilon_0.
+\end{align*}
+It follows that a prediction interval at a confidence level $1-\alpha$ is:
+\begin{align*}
+	\boldsymbol{\hat{\beta}}^T \boldsymbol{X}_0 \pm t_{n-p, 1 - \alpha /2} \hat{\sigma}\sqrt{1 + \boldsymbol{X}_0^T (\boldsymbol{X}^T \boldsymbol{X})^{-1}\boldsymbol{X}_0}
+\end{align*}
+
+\begin{figure}
+	\center
+	\includegraphics[width=0.3\textwidth]{figures/model/cr_swir_pixel_38_184_pred_int.pdf}
+\end{figure}
+
+$\blacktriangleright$ If we observed $Y_0$ corresponding to a new $X_0$, and if we had a very large number of samples $\{(X_i, Y_i)\}_{(i=1, \ldots, n)}$, 95\% of the prediction intervals constructed using these samples \textbf{would actually contain the observation} $Y_0$. 
+
+\end{frame}
+%--------------------------------------------------------------------------
+\subsection{Anomaly detection}
+%--------------------------------------------------------------------------
+\begin{frame}{Tree dieback monitoring as anomaly detection}
+
+$\blacktriangleright$ The prediction intervals hold for healthy vegetation, which makes it a relevant threshold for tree dieback detection! \vspace{0.2cm}
+
+\begin{figure}
+	\center
+	\begin{subfigure}{0.45\textwidth}
+		\includegraphics[width=\textwidth]{figures/model/cr_swir_pixel_38_184.pdf}
+		\caption{Healthy vegetation}
+	\end{subfigure}
+	\begin{subfigure}{0.45\textwidth}
+		\includegraphics[width=\textwidth]{figures/model/cr_swir_pixel_212_104.pdf}
+		\caption{Infested vegetation}
+	\end{subfigure}
+\end{figure}
+
+\end{frame}
+%--------------------------------------------------------------------------
+\begin{frame}{Mapping of tree dieback due to dark beetle infestations}
+
+\begin{figure}
+	\center
+	\includegraphics[width=0.8\textwidth]{figures/carte_scolyte.png}
+	\caption{Dynamics of dark beetle infestations in East of France estimated by (Féret et al., 2022)\footnotemark[1].}
+\end{figure}
+
+\footnotetext[1]{JB Féret, R Dutrieux, K Ose \& F de Boissieu, Détection des problèmes sanitaires des forêts par imagerie satellite optique: principes et application au cas des scolytes de l’épicéa, October 4 2022, \url{https://www.theia-land.fr/foret/2022-sante-foret/}
+}
+
 
 \end{frame}
 %--------------------------------------------------------------------------
