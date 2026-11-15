@@ -73,20 +73,26 @@
 \headcommand {\beamer@framepages {26}{26}}
 \headcommand {\slideentry {3}{2}{16}{27/27}{Principles of optical remote sensing}{0}}
 \headcommand {\beamer@framepages {27}{27}}
-\headcommand {\beamer@subsectionpages {12}{27}}
-\headcommand {\beamer@subsectionentry {0}{3}{3}{28}{Sentinel-2 multispectral sensor}}
-\headcommand {\slideentry {3}{3}{1}{28/28}{Sentinel-2 multispectral sensor}{0}}
+\headcommand {\slideentry {3}{2}{17}{28/28}{Principles of optical remote sensing}{0}}
 \headcommand {\beamer@framepages {28}{28}}
-\headcommand {\slideentry {3}{3}{2}{29/29}{Sentinel-2 multispectral sensor}{0}}
+\headcommand {\slideentry {3}{2}{18}{29/29}{Principles of optical remote sensing}{0}}
 \headcommand {\beamer@framepages {29}{29}}
-\headcommand {\slideentry {3}{3}{3}{30/30}{Sentinel-2 multispectral sensor}{0}}
+\headcommand {\slideentry {3}{2}{19}{30/30}{Principles of optical remote sensing}{0}}
 \headcommand {\beamer@framepages {30}{30}}
-\headcommand {\slideentry {3}{3}{4}{31/31}{Sentinel-2 multispectral sensor}{0}}
+\headcommand {\beamer@subsectionpages {12}{30}}
+\headcommand {\beamer@subsectionentry {0}{3}{3}{31}{Sentinel-2 multispectral sensor}}
+\headcommand {\slideentry {3}{3}{1}{31/31}{Sentinel-2 multispectral sensor}{0}}
 \headcommand {\beamer@framepages {31}{31}}
-\headcommand {\slideentry {3}{3}{5}{32/32}{Sentinel-2 multispectral sensor}{0}}
+\headcommand {\slideentry {3}{3}{2}{32/32}{Sentinel-2 multispectral sensor}{0}}
 \headcommand {\beamer@framepages {32}{32}}
-\headcommand {\beamer@partpages {1}{32}}
-\headcommand {\beamer@subsectionpages {28}{32}}
-\headcommand {\beamer@sectionpages {7}{32}}
-\headcommand {\beamer@documentpages {32}}
-\headcommand {\gdef \inserttotalframenumber {32}}
+\headcommand {\slideentry {3}{3}{3}{33/33}{Sentinel-2 multispectral sensor}{0}}
+\headcommand {\beamer@framepages {33}{33}}
+\headcommand {\slideentry {3}{3}{4}{34/34}{Sentinel-2 multispectral sensor}{0}}
+\headcommand {\beamer@framepages {34}{34}}
+\headcommand {\slideentry {3}{3}{5}{35/35}{Sentinel-2 multispectral sensor}{0}}
+\headcommand {\beamer@framepages {35}{35}}
+\headcommand {\beamer@partpages {1}{35}}
+\headcommand {\beamer@subsectionpages {31}{35}}
+\headcommand {\beamer@sectionpages {7}{35}}
+\headcommand {\beamer@documentpages {35}}
+\headcommand {\gdef \inserttotalframenumber {35}}

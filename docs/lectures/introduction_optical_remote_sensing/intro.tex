@@ -569,10 +569,9 @@ Classification of the different types of remote sensing
 %---------------------------------------------------------------------------
 \begin{frame}{From solar radiance to top-of-atmosphere irradiance}
 
-\textbf{Radiance} (Luminance in French) is the spectral flux that is emitted or that reaches a surface, per unit of surface, per unit of solid angle, and per unit of wavelength (W/m$^2$/sr/µm). \vspace{0.3cm}
+\textbf{Radiance} (Luminance énergétique in French) is the spectral flux that is emitted, reflected or that reaches a surface, per unit of effective surface (projected in the direction of propagation), per unit of solid angle, and per unit of wavelength (W/m$^2$/sr/µm). \vspace{0.3cm}
 
-
-The total flux emitted by the sun is the radiance integrated over the sun surface, over the entire sphere, and over the entire electromagnetic spectrum. \vspace{0.3cm}
+%The total flux emitted by the sun is the radiance integrated over the sun surface, over the entire sphere, and over the entire electromagnetic spectrum. \vspace{0.3cm}
 
 \textbf{Irradiance} (Eclairement in French) is the flux that reaches a surface, per surface unit and per wavelength unit (W/m$^2$/µm). \vspace{0.2cm}
 
@@ -839,6 +838,71 @@ Atmospheric correction codes, \textit{e.g.} MAJA (CNES / CESBIO), correct the me
 
 \end{frame}
 %---------------------------------------------------------------------------
+\begin{frame}{Remote sensing resolutions}
+
+\begin{figure}
+	\center
+	\includegraphics[width=0.4\textwidth]{figures/resolutions.PNG}
+	\caption{Illustration of remote sensing resolutions. Credit: Humboldt-Universität zu Berlin. Department of Geography.}
+\end{figure}
+
+\textbf{Spatial resolution}: the smallest distance between two distinct objects that can be distinguished by the sensor (in meters) $\neq$ ground sampling distance (GSD) that is the size of one pixel. \vspace{0.1cm}
+
+\textbf{Temporal resolution}: the minimum time interval between two successive image acquisitions by the satellite for the same geographic area (in days). \vspace{0.1cm}
+
+\textbf{Radiometric resolution}: the smallest change in radiance that the sensor is capable of detecting and quantifying (in bits). \vspace{0.1cm}
+
+\textbf{Spectral resolution}: the sensor's ability to distinguish between adjacent wavelengths. It is defined by the spectral bandwidth (e.g., 10 nm for a narrow band) and the number of available spectral bands.
+
+\end{frame}
+%--------------------------------------------------------------------------
+\begin{frame}{Spatial resolution $\neq$ GSD}
+
+\begin{figure}
+	\center
+	\begin{subfigure}{0.45\textwidth}
+		\center
+		\includegraphics[width=0.5\textwidth]{figures/resolution/img.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.45\textwidth}
+		\includegraphics[width=0.5\textwidth]{figures/resolution/blurred_img.pdf}
+	\end{subfigure}
+	
+	\begin{subfigure}{0.45\textwidth}
+		\center
+		\includegraphics[width=0.5\textwidth]{figures/resolution/patch.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.45\textwidth}
+		\includegraphics[width=0.5\textwidth]{figures/resolution/blurred_patch.pdf}
+	\end{subfigure}
+	\caption{Same GSD (same number of pixels for a same geographic area) but different spatial resolutions}
+\end{figure}
+
+\end{frame}
+%--------------------------------------------------------------------------
+\begin{frame}{Spatial resolution $\neq$ GSD}
+
+\begin{figure}
+	\center
+	\begin{subfigure}{0.45\textwidth}
+		\center
+		\includegraphics[width=0.5\textwidth]{figures/resolution/img.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.45\textwidth}
+		\includegraphics[width=0.5\textwidth]{figures/resolution/high_res_img.pdf}
+	\end{subfigure}
+	
+	\begin{subfigure}{0.45\textwidth}
+		\center
+		\includegraphics[width=0.5\textwidth]{figures/resolution/patch.pdf}
+	\end{subfigure}
+	\begin{subfigure}{0.45\textwidth}
+		\includegraphics[width=0.5\textwidth]{figures/resolution/high_res_patch.pdf}
+	\end{subfigure}
+	\caption{Different GSD (different number of pixels for a same geographic area) but same spatial resolutions}
+\end{figure}
+
+\end{frame}
 %--------------------------------------------------------------------------
 \subsection{Sentinel-2 multispectral sensor}
 %---------------------------------------------------------------------------
