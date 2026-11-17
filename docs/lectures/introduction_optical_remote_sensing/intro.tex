@@ -213,7 +213,7 @@
 %      }{}
 %\DeclareSymbolFont{matha}{U}{matha}{m}{n}
 
-\setbeamercovered{transparent}
+%\setbeamercovered{transparent}
 
 \setbeamertemplate{headline}{}
 
@@ -265,6 +265,13 @@
 \begin{frame}
 \titlepage % Print the title page as the first slide
 \end{frame}
+%---------------------------------------------------------------------------
+\begin{frame}{What is Remote Sensing?}
+
+\only<2>{
+\textit{Remote sensing consists in the measurement of physical quantities from a distance and without physical contact with objects, using the reflection, scattering, and emission of electromagnetic waves.}}
+
+\end{frame}
 %%%-------------------------------------------------------------------------
 \begin{frame}{Outline}
 \tableofcontents
@@ -281,11 +288,10 @@
 \textbf{Schedule} \quad \L = \textcolor{blue}{Lecture} \quad \PW = \textcolor{red}{Practical Work} \quad AM = 8:30 - 11:45 \quad PM = 13:30 - 16:45 \\ \vspace{0.3cm}
 \begin{tabular}{lcl}
 	Monday & AM & Introduction to remote sensing (\L)\\
-		   &  & The basics of radiative transfer modeling (\PW) \\
-		   & PM & Inversion of leaf traits from satellites images (\PW) \\
+		   & PM & The basics of radiative transfer modeling (\PW) \\
 		   & & \\
-	Tuesday & AM & Co-registration of satellite images (\PW) \\
-		    & PM & Interpolation of satellite time series (\PW) \\
+	Tuesday & AM & Inversion of leaf traits from satellites images (\PW) \\
+		    & PM & Co-registration of satellite images (\PW) \\
 		    & & \\
 	Wednesday & AM & Anomaly detection for forest monitoring (\L) \\
 			 & & Start of the project \\
@@ -423,10 +429,10 @@ By the end of the week, you will be able to:
 \begin{frame}{The beginning of the space race\footnote{\url{https://fr.wikipedia.org\/wiki\/Satellite\_artificiel}}}
 
 \begin{itemize}[label=$\blacktriangleright$]
-    \item \textbf{1957} Launch of the first artificial Earth satellite, Sputnik 1, by the USSR,
-    \item \textbf{1958} Creation of the National Aeronautics and Space Administration (NASA) at the initiative of President Eisenhower, and launch of the first American satellite, Explorer 1.
-    \item \textbf{1962} Creation of the Centre National d'Etudes Spatiales (CNES, French National Centre for Space Studies) at the initiative of General de Gaulle,
-    \item \textbf{1965} Launch of the first French satellite, Astérix, with the Diamant A rocket. France becomes the third power to achieve an orbital launch with a national launcher.
+    \item \textbf{1957} Launch of the first artificial Earth satellite, \only<2->{Sputnik 1, by the USSR,}
+    \item<3-> \textbf{1958} Creation of the National Aeronautics and Space Administration (NASA) at the initiative of President Eisenhower, and launch of the first American satellite, Explorer 1.
+    \item<4-> \textbf{1962} Creation of the Centre National d'Etudes Spatiales (CNES, French National Centre for Space Studies) at the initiative of General de Gaulle,
+    \item<4-> \textbf{1965} Launch of the first French satellite, Astérix, with the Diamant A rocket. France becomes the third power to achieve an orbital launch with a national launcher.
 \end{itemize}
 
 \begin{figure}
@@ -456,8 +462,8 @@ By the end of the week, you will be able to:
 
 \begin{itemize}[label=$\blacktriangleright$]
     \item \textbf{1960} Launch of the first weather satellite TIROS-1 by NASA,
-    \item \textbf{1964} Launch of the Meteor-1 weather satellite by the USSR,
-    \item \textbf{1977} Launch of the European weather satellite Meteosat-1 by ESA (European Space Agency).
+    \item<2-> \textbf{1964} Launch of the Meteor-1 weather satellite by the USSR,
+    \item<3-> \textbf{1977} Launch of the European weather satellite Meteosat-1 by ESA (European Space Agency).
 \end{itemize}
 
 \begin{columns}

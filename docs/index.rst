@@ -65,3 +65,62 @@ Evaluation
 
 In groups of two or three, you will design and implement a data processing pipeline to detect tree dieback caused by bark beetle infestations.
 On the last day, you will present to the class the methodological choices underlying your anomaly detection pipeline.
+
+Python installation
+-------------------
+
+
+1. Install Miniconda (all platforms)
+====================================
+
+Download and install Miniconda: https://www.anaconda.com/docs/getting-started/installation
+
+- **Windows:** run the ``.exe`` installer. During installation, it is recommended to check "Add Miniconda3 to my PATH environment variable" (otherwise, always launch conda from the **Anaconda Prompt (miniconda3)** from the Start menu).
+- **macOS:** run the ``.pkg`` installer, or use the shell installer in a terminal (``bash Miniconda3-latest-MacOSX-x86_64.sh`` for Intel, ``Miniconda3-latest-MacOSX-arm64.sh`` for Apple Silicon).
+- **Linux:** run the shell installer (``bash Miniconda3-latest-Linux-x86_64.sh``), then restart your terminal.
+
+After installation, open:
+
+- **Windows:** the *Anaconda Prompt (miniconda3)* (or a terminal if you added conda to PATH).
+- **macOS / Linux:** your terminal (Terminal.app on macOS).
+
+2. Create a virtual environment
+===============================
+
+In your terminal, run (see the conda environments guide: https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html):
+
+.. code-block:: bash
+
+   conda create --name ucathens
+
+3. Download requirements.txt
+============================
+
+Download the file ``requirements.txt`` at https://fichiers.numerique.gouv.fr/explorer/items/c34458d1-a27c-459f-ab82-e4abfb75281d and place it in your project folder.
+
+4. Go to your project folder
+============================
+
+.. code-block:: bash
+
+   cd path/to/project
+
+- **Windows:** in ``cmd`` use backslashes (``cd C:\Users\you\project``); in PowerShell or Anaconda Prompt both ``/`` and ``\`` work.
+- **macOS / Linux:** ``cd /Users/you/project`` (macOS) or ``cd /home/you/project`` (Linux).
+
+Tip: you can type ``cd `` then drag and drop the folder into the terminal window (works on Windows, macOS and Linux).
+
+5. Install the dependencies
+===========================
+
+Still in your terminal, run:
+
+.. code-block:: bash
+
+   conda activate ucathens
+   pip install -r requirements.txt
+
+- **Windows:** if ``conda activate`` is not recognized, first run ``conda init``, close and reopen the Anaconda Prompt, then try again.
+- **macOS / Linux:** if ``conda activate`` is not recognized, first run ``conda init`` (or ``source ~/miniconda3/bin/activate``), close and reopen the terminal, then try again.
+
+Your prompt should now show ``(ucathens)`` before the command line, confirming the environment is active.

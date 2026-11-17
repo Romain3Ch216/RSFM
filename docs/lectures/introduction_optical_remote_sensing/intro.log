@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.2.20)  15 NOV 2026 12:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.2.20)  16 NOV 2026 08:26
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1606,397 +1606,477 @@ Package pdftex.def Info: figures/Logotype UPSaclay_RVB.png  used on input line
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./figures/logo_mia.png> <.
 /figures/APT_Logo_RVB_Positif.png> <./figures/Logotype UPSaclay_RVB.png (PNG co
-py)>] (./intro.toc) [2
+py)>] [2
 
 ] [3
 
 ]
+(./intro.toc) [4
+
+] [5
+
+]
 LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 
-337.
+343.
  (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmss.fd
 File: ts1cmss.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-<figures/ajol_2018.png, id=100, 1173.38374pt x 901.3675pt>
+<figures/ajol_2018.png, id=113, 1173.38374pt x 901.3675pt>
 File: figures/ajol_2018.png Graphic file (type png)
 <use figures/ajol_2018.png>
-Package pdftex.def Info: figures/ajol_2018.png  used on input line 337.
+Package pdftex.def Info: figures/ajol_2018.png  used on input line 343.
 (pdftex.def)             Requested size: 79.66649pt x 61.1904pt.
-<figures/ajol_2019.png, id=101, 1173.38374pt x 901.3675pt>
+<figures/ajol_2019.png, id=114, 1173.38374pt x 901.3675pt>
 File: figures/ajol_2019.png Graphic file (type png)
 <use figures/ajol_2019.png>
-Package pdftex.def Info: figures/ajol_2019.png  used on input line 337.
+Package pdftex.def Info: figures/ajol_2019.png  used on input line 343.
 (pdftex.def)             Requested size: 79.66649pt x 61.1904pt.
-<figures/ajol_2020.png, id=102, 1173.38374pt x 901.3675pt>
+<figures/ajol_2020.png, id=115, 1173.38374pt x 901.3675pt>
 File: figures/ajol_2020.png Graphic file (type png)
 <use figures/ajol_2020.png>
-Package pdftex.def Info: figures/ajol_2020.png  used on input line 337.
+Package pdftex.def Info: figures/ajol_2020.png  used on input line 343.
 (pdftex.def)             Requested size: 79.66649pt x 61.1904pt.
- [4
+[6
 
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <./figures/ajol_20
-18.png> <./figures/ajol_2019.png> <./figures/ajol_2020.png>] [5
+18.png> <./figures/ajol_2019.png> <./figures/ajol_2020.png>] [7
 
-] [6
-
-] (./intro.toc)
-[7
+] [8
 
 ]
-<figures/US_Air_Force_U-2_reconnaissance_aircraft_H.jpg, id=144, 381.29549pt x 
+(./intro.toc) [9
+
+]
+<figures/US_Air_Force_U-2_reconnaissance_aircraft_H.jpg, id=157, 381.29549pt x 
 248.67097pt>
 File: figures/US_Air_Force_U-2_reconnaissance_aircraft_H.jpg Graphic file (type
  jpg)
 <use figures/US_Air_Force_U-2_reconnaissance_aircraft_H.jpg>
 Package pdftex.def Info: figures/US_Air_Force_U-2_reconnaissance_aircraft_H.jpg
-  used on input line 421.
+  used on input line 427.
 (pdftex.def)             Requested size: 107.55177pt x 70.14343pt.
-<figures/Dora_-_production.jpeg, id=145, 277.035pt x 190.7125pt>
+<figures/Dora_-_production.jpeg, id=158, 277.035pt x 190.7125pt>
 File: figures/Dora_-_production.jpeg Graphic file (type jpg)
 <use figures/Dora_-_production.jpeg>
-Package pdftex.def Info: figures/Dora_-_production.jpeg  used on input line 421
+Package pdftex.def Info: figures/Dora_-_production.jpeg  used on input line 427
 .
 (pdftex.def)             Requested size: 89.62556pt x 61.69855pt.
- [8
+ [10
 
  <./figures/US_Air_Force_U-2_reconnaissance_aircraft_H.jpg> <./figures/Dora_-_p
 roduction.jpeg>]
-<figures/Sputnik_asm.jpeg, id=156, 263.5446pt x 215.8464pt>
+<figures/Sputnik_asm.jpeg, id=169, 263.5446pt x 215.8464pt>
 File: figures/Sputnik_asm.jpeg Graphic file (type jpg)
 <use figures/Sputnik_asm.jpeg>
-Package pdftex.def Info: figures/Sputnik_asm.jpeg  used on input line 453.
+Package pdftex.def Info: figures/Sputnik_asm.jpeg  used on input line 459.
 (pdftex.def)             Requested size: 101.5781pt x 83.19498pt.
-<figures/Diamant_A.jpeg, id=157, 578.16pt x 751.89708pt>
+<figures/Diamant_A.jpeg, id=170, 578.16pt x 751.89708pt>
 File: figures/Diamant_A.jpeg Graphic file (type jpg)
 <use figures/Diamant_A.jpeg>
-Package pdftex.def Info: figures/Diamant_A.jpeg  used on input line 453.
+Package pdftex.def Info: figures/Diamant_A.jpeg  used on input line 459.
 (pdftex.def)             Requested size: 65.7269pt x 85.47392pt.
-<figures/Asterix_Musee_du_Bourget_P1020341.jpeg, id=158, 2485.03406pt x 1942.25
+<figures/Asterix_Musee_du_Bourget_P1020341.jpeg, id=171, 2485.03406pt x 1942.25
 626pt>
 File: figures/Asterix_Musee_du_Bourget_P1020341.jpeg Graphic file (type jpg)
 <use figures/Asterix_Musee_du_Bourget_P1020341.jpeg>
 Package pdftex.def Info: figures/Asterix_Musee_du_Bourget_P1020341.jpeg  used o
-n input line 453.
+n input line 459.
 (pdftex.def)             Requested size: 107.55177pt x 84.04884pt.
- [9
+ [11
 
  <./figures/Sputnik_asm.jpeg> <./figures/Diamant_A.jpeg> <./figures/Asterix_Mus
 ee_du_Bourget_P1020341.jpeg>]
-<figures/FCI_at_Test_Centre_ESA396236.jpeg, id=167, 1988.8704pt x 1325.9136pt>
+File: figures/Sputnik_asm.jpeg Graphic file (type jpg)
+<use figures/Sputnik_asm.jpeg>
+Package pdftex.def Info: figures/Sputnik_asm.jpeg  used on input line 459.
+(pdftex.def)             Requested size: 101.5781pt x 83.19498pt.
+File: figures/Diamant_A.jpeg Graphic file (type jpg)
+<use figures/Diamant_A.jpeg>
+Package pdftex.def Info: figures/Diamant_A.jpeg  used on input line 459.
+(pdftex.def)             Requested size: 65.7269pt x 85.47392pt.
+File: figures/Asterix_Musee_du_Bourget_P1020341.jpeg Graphic file (type jpg)
+<use figures/Asterix_Musee_du_Bourget_P1020341.jpeg>
+Package pdftex.def Info: figures/Asterix_Musee_du_Bourget_P1020341.jpeg  used o
+n input line 459.
+(pdftex.def)             Requested size: 107.55177pt x 84.04884pt.
+ [12
+
+]
+File: figures/Sputnik_asm.jpeg Graphic file (type jpg)
+<use figures/Sputnik_asm.jpeg>
+Package pdftex.def Info: figures/Sputnik_asm.jpeg  used on input line 459.
+(pdftex.def)             Requested size: 101.5781pt x 83.19498pt.
+File: figures/Diamant_A.jpeg Graphic file (type jpg)
+<use figures/Diamant_A.jpeg>
+Package pdftex.def Info: figures/Diamant_A.jpeg  used on input line 459.
+(pdftex.def)             Requested size: 65.7269pt x 85.47392pt.
+File: figures/Asterix_Musee_du_Bourget_P1020341.jpeg Graphic file (type jpg)
+<use figures/Asterix_Musee_du_Bourget_P1020341.jpeg>
+Package pdftex.def Info: figures/Asterix_Musee_du_Bourget_P1020341.jpeg  used o
+n input line 459.
+(pdftex.def)             Requested size: 107.55177pt x 84.04884pt.
+
+[13
+
+]
+File: figures/Sputnik_asm.jpeg Graphic file (type jpg)
+<use figures/Sputnik_asm.jpeg>
+Package pdftex.def Info: figures/Sputnik_asm.jpeg  used on input line 459.
+(pdftex.def)             Requested size: 101.5781pt x 83.19498pt.
+File: figures/Diamant_A.jpeg Graphic file (type jpg)
+<use figures/Diamant_A.jpeg>
+Package pdftex.def Info: figures/Diamant_A.jpeg  used on input line 459.
+(pdftex.def)             Requested size: 65.7269pt x 85.47392pt.
+File: figures/Asterix_Musee_du_Bourget_P1020341.jpeg Graphic file (type jpg)
+<use figures/Asterix_Musee_du_Bourget_P1020341.jpeg>
+Package pdftex.def Info: figures/Asterix_Musee_du_Bourget_P1020341.jpeg  used o
+n input line 459.
+(pdftex.def)             Requested size: 107.55177pt x 84.04884pt.
+ [14
+
+]
+<figures/FCI_at_Test_Centre_ESA396236.jpeg, id=201, 1988.8704pt x 1325.9136pt>
 File: figures/FCI_at_Test_Centre_ESA396236.jpeg Graphic file (type jpg)
 <use figures/FCI_at_Test_Centre_ESA396236.jpeg>
 Package pdftex.def Info: figures/FCI_at_Test_Centre_ESA396236.jpeg  used on inp
-ut line 483.
+ut line 489.
 (pdftex.def)             Requested size: 125.47525pt x 83.6382pt.
-<figures/Meteosat_first_images.jpg, id=168, 2840.6125pt x 2137.9875pt>
+<figures/Meteosat_first_images.jpg, id=202, 2840.6125pt x 2137.9875pt>
 File: figures/Meteosat_first_images.jpg Graphic file (type jpg)
 <use figures/Meteosat_first_images.jpg>
 Package pdftex.def Info: figures/Meteosat_first_images.jpg  used on input line 
-483.
+489.
 (pdftex.def)             Requested size: 116.51215pt x 87.69067pt.
- [10
+ [15
 
  <./figures/FCI_at_Test_Centre_ESA396236.jpeg> <./figures/Meteosat_first_images
 .jpg>]
-<figures/11.03.85_Au_CNES_satellite_Spot_1_(1985)_-_53Fi2121.jpeg, id=175, 365.
+File: figures/FCI_at_Test_Centre_ESA396236.jpeg Graphic file (type jpg)
+<use figures/FCI_at_Test_Centre_ESA396236.jpeg>
+Package pdftex.def Info: figures/FCI_at_Test_Centre_ESA396236.jpeg  used on inp
+ut line 489.
+(pdftex.def)             Requested size: 125.47525pt x 83.6382pt.
+File: figures/Meteosat_first_images.jpg Graphic file (type jpg)
+<use figures/Meteosat_first_images.jpg>
+Package pdftex.def Info: figures/Meteosat_first_images.jpg  used on input line 
+489.
+(pdftex.def)             Requested size: 116.51215pt x 87.69067pt.
+ [16
+
+]
+File: figures/FCI_at_Test_Centre_ESA396236.jpeg Graphic file (type jpg)
+<use figures/FCI_at_Test_Centre_ESA396236.jpeg>
+Package pdftex.def Info: figures/FCI_at_Test_Centre_ESA396236.jpeg  used on inp
+ut line 489.
+(pdftex.def)             Requested size: 125.47525pt x 83.6382pt.
+File: figures/Meteosat_first_images.jpg Graphic file (type jpg)
+<use figures/Meteosat_first_images.jpg>
+Package pdftex.def Info: figures/Meteosat_first_images.jpg  used on input line 
+489.
+(pdftex.def)             Requested size: 116.51215pt x 87.69067pt.
+ [17
+
+]
+<figures/11.03.85_Au_CNES_satellite_Spot_1_(1985)_-_53Fi2121.jpeg, id=221, 365.
 2044pt x 548.7702pt>
 File: figures/11.03.85_Au_CNES_satellite_Spot_1_(1985)_-_53Fi2121.jpeg Graphic 
 file (type jpg)
 <use figures/11.03.85_Au_CNES_satellite_Spot_1_(1985)_-_53Fi2121.jpeg>
 Package pdftex.def Info: figures/11.03.85_Au_CNES_satellite_Spot_1_(1985)_-_53F
-i2121.jpeg  used on input line 522.
+i2121.jpeg  used on input line 528.
 (pdftex.def)             Requested size: 49.79231pt x 74.81764pt.
-<figures/Landsat_7_ETM_instrument.jpeg, id=176, 1606.0pt x 1427.3325pt>
+<figures/Landsat_7_ETM_instrument.jpeg, id=222, 1606.0pt x 1427.3325pt>
 File: figures/Landsat_7_ETM_instrument.jpeg Graphic file (type jpg)
 <use figures/Landsat_7_ETM_instrument.jpeg>
 Package pdftex.def Info: figures/Landsat_7_ETM_instrument.jpeg  used on input l
-ine 522.
+ine 528.
 (pdftex.def)             Requested size: 89.62556pt x 79.64694pt.
-<figures/Large_Kolkata_Landsat.jpeg, id=177, 803.0pt x 803.0pt>
+<figures/Large_Kolkata_Landsat.jpeg, id=223, 803.0pt x 803.0pt>
 File: figures/Large_Kolkata_Landsat.jpeg Graphic file (type jpg)
 <use figures/Large_Kolkata_Landsat.jpeg>
 Package pdftex.def Info: figures/Large_Kolkata_Landsat.jpeg  used on input line
- 522.
+ 528.
 (pdftex.def)             Requested size: 79.66801pt x 79.66756pt.
- [11
+ [18
 
  <./figures/11.03.85_Au_CNES_satellite_Spot_1_(1985)_-_53Fi2121.jpeg> <./figure
 s/Landsat_7_ETM_instrument.jpeg> <./figures/Large_Kolkata_Landsat.jpeg>] (./int
-ro.toc)
-[12
+ro.toc) [19
 
 ]
-<figures/cat_teledec.png, id=199, 1330.9725pt x 364.36125pt>
+<figures/cat_teledec.png, id=246, 1330.9725pt x 364.36125pt>
 File: figures/cat_teledec.png Graphic file (type png)
 <use figures/cat_teledec.png>
-Package pdftex.def Info: figures/cat_teledec.png  used on input line 552.
+Package pdftex.def Info: figures/cat_teledec.png  used on input line 558.
 (pdftex.def)             Requested size: 278.83578pt x 76.32909pt.
- [13
+ [20
 
  <./figures/cat_teledec.png>]
-<figures/plancks-law.jpg, id=208, 1027.84pt x 597.23125pt>
+<figures/plancks-law.jpg, id=254, 1027.84pt x 597.23125pt>
 File: figures/plancks-law.jpg Graphic file (type jpg)
 <use figures/plancks-law.jpg>
-Package pdftex.def Info: figures/plancks-law.jpg  used on input line 568.
+Package pdftex.def Info: figures/plancks-law.jpg  used on input line 574.
 (pdftex.def)             Requested size: 278.83578pt x 162.02008pt.
- [14
+
+[21
 
  <./figures/plancks-law.jpg>]
-<figures/rad_vs_irr.jpg, id=220, 520.344pt x 346.896pt>
+<figures/rad_vs_irr.jpg, id=266, 520.344pt x 346.896pt>
 File: figures/rad_vs_irr.jpg Graphic file (type jpg)
 <use figures/rad_vs_irr.jpg>
-Package pdftex.def Info: figures/rad_vs_irr.jpg  used on input line 586.
+Package pdftex.def Info: figures/rad_vs_irr.jpg  used on input line 592.
 (pdftex.def)             Requested size: 119.50279pt x 79.66794pt.
- [15
+ [22
 
  <./figures/rad_vs_irr.jpg>]
-<figures/angle_solide.png, id=230, 319.1925pt x 232.87pt>
+<figures/angle_solide.png, id=276, 319.1925pt x 232.87pt>
 File: figures/angle_solide.png Graphic file (type png)
 <use figures/angle_solide.png>
-Package pdftex.def Info: figures/angle_solide.png  used on input line 622.
+Package pdftex.def Info: figures/angle_solide.png  used on input line 628.
 (pdftex.def)             Requested size: 89.62556pt x 65.38791pt.
-<figures/ds2.png, id=231, 674.52pt x 647.41875pt>
+<figures/ds2.png, id=277, 674.52pt x 647.41875pt>
 File: figures/ds2.png Graphic file (type png)
 <use figures/ds2.png>
-Package pdftex.def Info: figures/ds2.png  used on input line 622.
+Package pdftex.def Info: figures/ds2.png  used on input line 628.
 (pdftex.def)             Requested size: 89.62556pt x 86.0246pt.
 
-Overfull \vbox (6.27664pt too high) detected at line 622
+Overfull \vbox (6.27664pt too high) detected at line 628
  []
 
-[16
+[23
 
  <./figures/angle_solide.png> <./figures/ds2.png (PNG copy)>]
-<figures/scattering.jpg, id=244, 803.0pt x 664.4825pt>
+<figures/scattering.jpg, id=290, 803.0pt x 664.4825pt>
 File: figures/scattering.jpg Graphic file (type jpg)
 <use figures/scattering.jpg>
-Package pdftex.def Info: figures/scattering.jpg  used on input line 638.
+Package pdftex.def Info: figures/scattering.jpg  used on input line 644.
 (pdftex.def)             Requested size: 119.50279pt x 98.88734pt.
- [17
+ [24
 
  <./figures/scattering.jpg>]
-<figures/black_clouds.jpg, id=254, 6745.2pt x 4496.8pt>
+<figures/black_clouds.jpg, id=300, 6745.2pt x 4496.8pt>
 File: figures/black_clouds.jpg Graphic file (type jpg)
 <use figures/black_clouds.jpg>
-Package pdftex.def Info: figures/black_clouds.jpg  used on input line 660.
+Package pdftex.def Info: figures/black_clouds.jpg  used on input line 666.
 (pdftex.def)             Requested size: 179.25114pt x 119.45967pt.
-<figures/sunset.jpg, id=255, 4496.8pt x 6745.2pt>
+<figures/sunset.jpg, id=301, 4496.8pt x 6745.2pt>
 File: figures/sunset.jpg Graphic file (type jpg)
 <use figures/sunset.jpg>
-Package pdftex.def Info: figures/sunset.jpg  used on input line 660.
+Package pdftex.def Info: figures/sunset.jpg  used on input line 666.
 (pdftex.def)             Requested size: 89.62556pt x 134.41786pt.
- [18
+ [25
 
  <./figures/black_clouds.jpg> <./figures/sunset.jpg>]
-<figures/transmittance_atm.png, id=264, 1346.02875pt x 991.705pt>
+<figures/transmittance_atm.png, id=312, 1346.02875pt x 991.705pt>
 File: figures/transmittance_atm.png Graphic file (type png)
 <use figures/transmittance_atm.png>
-Package pdftex.def Info: figures/transmittance_atm.png  used on input line 671.
+Package pdftex.def Info: figures/transmittance_atm.png  used on input line 677.
 
 (pdftex.def)             Requested size: 258.91765pt x 190.75626pt.
 
-[19
+[26
 
  <./figures/transmittance_atm.png>]
-<figures/tot_transmittance.png, id=273, 883.3pt x 266.9975pt>
+<figures/tot_transmittance.png, id=320, 883.3pt x 266.9975pt>
 File: figures/tot_transmittance.png Graphic file (type png)
 <use figures/tot_transmittance.png>
-Package pdftex.def Info: figures/tot_transmittance.png  used on input line 698.
+Package pdftex.def Info: figures/tot_transmittance.png  used on input line 704.
 
 (pdftex.def)             Requested size: 219.08743pt x 66.22365pt.
-<figures/toa_irradiance.png, id=274, 489.83pt x 248.93pt>
+<figures/toa_irradiance.png, id=321, 489.83pt x 248.93pt>
 File: figures/toa_irradiance.png Graphic file (type png)
 <use figures/toa_irradiance.png>
-Package pdftex.def Info: figures/toa_irradiance.png  used on input line 698.
+Package pdftex.def Info: figures/toa_irradiance.png  used on input line 704.
 (pdftex.def)             Requested size: 119.50279pt x 60.72818pt.
- [20
+ [27
 
  <./figures/tot_transmittance.png> <./figures/toa_irradiance.png>]
-<figures/reflectance.png, id=283, 1613.02625pt x 636.3775pt>
+<figures/reflectance.png, id=330, 1613.02625pt x 636.3775pt>
 File: figures/reflectance.png Graphic file (type png)
 <use figures/reflectance.png>
-Package pdftex.def Info: figures/reflectance.png  used on input line 717.
+Package pdftex.def Info: figures/reflectance.png  used on input line 723.
 (pdftex.def)             Requested size: 239.00558pt x 94.28726pt.
- [21
+ [28
 
  <./figures/reflectance.png>]
-<figures/brdf.png, id=291, 841.1425pt x 567.11874pt>
+<figures/brdf.png, id=338, 841.1425pt x 567.11874pt>
 File: figures/brdf.png Graphic file (type png)
 <use figures/brdf.png>
-Package pdftex.def Info: figures/brdf.png  used on input line 740.
+Package pdftex.def Info: figures/brdf.png  used on input line 746.
 (pdftex.def)             Requested size: 179.25114pt x 120.8551pt.
-<figures/Roof_Windows-1024x775.png, id=292, 770.88pt x 583.42969pt>
+<figures/Roof_Windows-1024x775.png, id=339, 770.88pt x 583.42969pt>
 File: figures/Roof_Windows-1024x775.png Graphic file (type png)
 <use figures/Roof_Windows-1024x775.png>
 Package pdftex.def Info: figures/Roof_Windows-1024x775.png  used on input line 
-740.
+746.
 (pdftex.def)             Requested size: 179.25114pt x 135.6638pt.
- [22
+ [29
 
  <./figures/brdf.png> <./figures/Roof_Windows-1024x775.png>]
-<figures/profil_mexique-1024x350.png, id=303, 770.88pt x 263.48438pt>
+<figures/profil_mexique-1024x350.png, id=350, 770.88pt x 263.48438pt>
 File: figures/profil_mexique-1024x350.png Graphic file (type png)
 <use figures/profil_mexique-1024x350.png>
 Package pdftex.def Info: figures/profil_mexique-1024x350.png  used on input lin
-e 752.
+e 758.
 (pdftex.def)             Requested size: 239.00558pt x 81.69136pt.
- [23
+ [30
 
  <./figures/profil_mexique-1024x350.png>]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./figures/I_terms.pdf): PDF inclusion: 
 found PDF version <1.7>, but at most version <1.5> allowed
-<figures/I_terms.pdf, id=313, 1284.8pt x 803.0pt>
+<figures/I_terms.pdf, id=360, 1284.8pt x 803.0pt>
 File: figures/I_terms.pdf Graphic file (type pdf)
 <use figures/I_terms.pdf>
-Package pdftex.def Info: figures/I_terms.pdf  used on input line 780.
+Package pdftex.def Info: figures/I_terms.pdf  used on input line 786.
 (pdftex.def)             Requested size: 99.58464pt x 62.23186pt.
 
 
 pdfTeX warning: /usr/bin/pdflatex (file ./figures/R_terms.pdf): PDF inclusion: 
 found PDF version <1.7>, but at most version <1.5> allowed
-<figures/R_terms.pdf, id=314, 1284.8pt x 803.0pt>
+<figures/R_terms.pdf, id=361, 1284.8pt x 803.0pt>
 File: figures/R_terms.pdf Graphic file (type pdf)
 <use figures/R_terms.pdf>
-Package pdftex.def Info: figures/R_terms.pdf  used on input line 780.
+Package pdftex.def Info: figures/R_terms.pdf  used on input line 786.
 (pdftex.def)             Requested size: 99.58464pt x 62.23186pt.
-[24
+[31
 
- <./figures/I_terms.pdf> <./figures/R_terms.pdf>] [25
+ <./figures/I_terms.pdf> <./figures/R_terms.pdf>] [32
 
 ]
-<figures/L1C.png, id=346, 905.3825pt x 921.4425pt>
+<figures/L1C.png, id=392, 905.3825pt x 921.4425pt>
 File: figures/L1C.png Graphic file (type png)
 <use figures/L1C.png>
-Package pdftex.def Info: figures/L1C.png  used on input line 822.
+Package pdftex.def Info: figures/L1C.png  used on input line 828.
 (pdftex.def)             Requested size: 107.55177pt x 109.45758pt.
-<figures/L2A.png, id=347, 905.3825pt x 921.4425pt>
+<figures/L2A.png, id=393, 905.3825pt x 921.4425pt>
 File: figures/L2A.png Graphic file (type png)
 <use figures/L2A.png>
-Package pdftex.def Info: figures/L2A.png  used on input line 822.
+Package pdftex.def Info: figures/L2A.png  used on input line 828.
 (pdftex.def)             Requested size: 107.55177pt x 109.45758pt.
- [26
+ [33
 
  <./figures/L1C.png> <./figures/L2A.png>]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./figures/asphalt_hyp.pdf): PDF inclusi
 on: found PDF version <1.7>, but at most version <1.5> allowed
-<figures/asphalt_hyp.pdf, id=356, 267.39899pt x 267.39899pt>
+<figures/asphalt_hyp.pdf, id=402, 267.39899pt x 267.39899pt>
 File: figures/asphalt_hyp.pdf Graphic file (type pdf)
 <use figures/asphalt_hyp.pdf>
-Package pdftex.def Info: figures/asphalt_hyp.pdf  used on input line 839.
+Package pdftex.def Info: figures/asphalt_hyp.pdf  used on input line 845.
 (pdftex.def)             Requested size: 107.55177pt x 107.55339pt.
 
 
 pdfTeX warning: /usr/bin/pdflatex (file ./figures/fib_hyp.pdf): PDF inclusion: 
 found PDF version <1.7>, but at most version <1.5> allowed
-<figures/fib_hyp.pdf, id=357, 267.39899pt x 267.39899pt>
+<figures/fib_hyp.pdf, id=403, 267.39899pt x 267.39899pt>
 File: figures/fib_hyp.pdf Graphic file (type pdf)
 <use figures/fib_hyp.pdf>
-Package pdftex.def Info: figures/fib_hyp.pdf  used on input line 839.
+Package pdftex.def Info: figures/fib_hyp.pdf  used on input line 845.
 (pdftex.def)             Requested size: 107.55177pt x 107.55339pt.
-[27
+[34
 
  <./figures/asphalt_hyp.pdf> <./figures/fib_hyp.pdf>]
-<figures/resolutions.PNG, id=370, 1409.265pt x 712.91344pt>
+<figures/resolutions.PNG, id=416, 1409.265pt x 712.91344pt>
 File: figures/resolutions.PNG Graphic file (type png)
 <use figures/resolutions.PNG>
-Package pdftex.def Info: figures/resolutions.PNG  used on input line 857.
+Package pdftex.def Info: figures/resolutions.PNG  used on input line 863.
 (pdftex.def)             Requested size: 159.333pt x 80.59634pt.
- [28
+ [35
 
  <./figures/resolutions.PNG>]
-<figures/resolution/img.pdf, id=378, 300.51285pt x 293.83902pt>
+<figures/resolution/img.pdf, id=424, 300.51285pt x 293.83902pt>
 File: figures/resolution/img.pdf Graphic file (type pdf)
 <use figures/resolution/img.pdf>
-Package pdftex.def Info: figures/resolution/img.pdf  used on input line 881.
+Package pdftex.def Info: figures/resolution/img.pdf  used on input line 887.
 (pdftex.def)             Requested size: 89.62556pt x 87.63228pt.
-<figures/resolution/blurred_img.pdf, id=379, 300.51285pt x 293.83902pt>
+<figures/resolution/blurred_img.pdf, id=425, 300.51285pt x 293.83902pt>
 File: figures/resolution/blurred_img.pdf Graphic file (type pdf)
 <use figures/resolution/blurred_img.pdf>
 Package pdftex.def Info: figures/resolution/blurred_img.pdf  used on input line
- 881.
+ 887.
 (pdftex.def)             Requested size: 89.62556pt x 87.63228pt.
-<figures/resolution/patch.pdf, id=380, 294.12962pt x 291.07132pt>
+<figures/resolution/patch.pdf, id=426, 294.12962pt x 291.07132pt>
 File: figures/resolution/patch.pdf Graphic file (type pdf)
 <use figures/resolution/patch.pdf>
-Package pdftex.def Info: figures/resolution/patch.pdf  used on input line 881.
+Package pdftex.def Info: figures/resolution/patch.pdf  used on input line 887.
 (pdftex.def)             Requested size: 89.62556pt x 88.69444pt.
-<figures/resolution/blurred_patch.pdf, id=381, 294.12962pt x 291.07132pt>
+<figures/resolution/blurred_patch.pdf, id=427, 294.12962pt x 291.07132pt>
 File: figures/resolution/blurred_patch.pdf Graphic file (type pdf)
 <use figures/resolution/blurred_patch.pdf>
 Package pdftex.def Info: figures/resolution/blurred_patch.pdf  used on input li
-ne 881.
+ne 887.
 (pdftex.def)             Requested size: 89.62556pt x 88.69444pt.
- [29
+ [36
 
  <./figures/resolution/img.pdf> <./figures/resolution/blurred_img.pdf> <./figur
 es/resolution/patch.pdf> <./figures/resolution/blurred_patch.pdf>]
 File: figures/resolution/img.pdf Graphic file (type pdf)
 <use figures/resolution/img.pdf>
-Package pdftex.def Info: figures/resolution/img.pdf  used on input line 905.
+Package pdftex.def Info: figures/resolution/img.pdf  used on input line 911.
 (pdftex.def)             Requested size: 89.62556pt x 87.63228pt.
-<figures/resolution/high_res_img.pdf, id=437, 304.08812pt x 294.62158pt>
+<figures/resolution/high_res_img.pdf, id=483, 304.08812pt x 294.62158pt>
 File: figures/resolution/high_res_img.pdf Graphic file (type pdf)
 <use figures/resolution/high_res_img.pdf>
 Package pdftex.def Info: figures/resolution/high_res_img.pdf  used on input lin
-e 905.
+e 911.
 (pdftex.def)             Requested size: 89.62556pt x 86.83168pt.
 File: figures/resolution/patch.pdf Graphic file (type pdf)
 <use figures/resolution/patch.pdf>
-Package pdftex.def Info: figures/resolution/patch.pdf  used on input line 905.
+Package pdftex.def Info: figures/resolution/patch.pdf  used on input line 911.
 (pdftex.def)             Requested size: 89.62556pt x 88.69444pt.
-<figures/resolution/high_res_patch.pdf, id=438, 300.51285pt x 293.76945pt>
+<figures/resolution/high_res_patch.pdf, id=484, 300.51285pt x 293.76945pt>
 File: figures/resolution/high_res_patch.pdf Graphic file (type pdf)
 <use figures/resolution/high_res_patch.pdf>
 Package pdftex.def Info: figures/resolution/high_res_patch.pdf  used on input l
-ine 905.
+ine 911.
 (pdftex.def)             Requested size: 89.62556pt x 87.61153pt.
- [30
+ [37
 
  <./figures/resolution/high_res_img.pdf> <./figures/resolution/high_res_patch.p
-df>] (./intro.toc) [31
+df>] (./intro.toc) [38
 
 ]
-<figures/copernicus.png, id=487, 1687.30376pt x 970.62625pt>
+<figures/copernicus.png, id=534, 1687.30376pt x 970.62625pt>
 File: figures/copernicus.png Graphic file (type png)
 <use figures/copernicus.png>
-Package pdftex.def Info: figures/copernicus.png  used on input line 929.
+Package pdftex.def Info: figures/copernicus.png  used on input line 935.
 (pdftex.def)             Requested size: 179.25114pt x 103.11101pt.
-<figures/copernicus_browser.png, id=490, 1856.9375pt x 1132.23pt>
+<figures/copernicus_browser.png, id=537, 1856.9375pt x 1132.23pt>
 File: figures/copernicus_browser.png Graphic file (type png)
 <use figures/copernicus_browser.png>
-Package pdftex.def Info: figures/copernicus_browser.png  used on input line 929
+Package pdftex.def Info: figures/copernicus_browser.png  used on input line 935
 .
 (pdftex.def)             Requested size: 170.28802pt x 103.81398pt.
- [32
+ [39
 
  <./figures/copernicus.png> <./figures/copernicus_browser.png>]
-<figures/Sentinel-2_global_coverage.jpg, id=501, 930.47626pt x 541.42274pt>
+<figures/Sentinel-2_global_coverage.jpg, id=548, 930.47626pt x 541.42274pt>
 File: figures/Sentinel-2_global_coverage.jpg Graphic file (type jpg)
 <use figures/Sentinel-2_global_coverage.jpg>
 Package pdftex.def Info: figures/Sentinel-2_global_coverage.jpg  used on input 
-line 944.
+line 950.
 (pdftex.def)             Requested size: 239.00558pt x 139.06473pt.
- [33
+ [40
 
  <./figures/Sentinel-2_global_coverage.jpg>]
-<figures/s2_sfr.pdf, id=510, 886.0415pt x 317.88448pt>
+<figures/s2_sfr.pdf, id=556, 886.0415pt x 317.88448pt>
 File: figures/s2_sfr.pdf Graphic file (type pdf)
 <use figures/s2_sfr.pdf>
-Package pdftex.def Info: figures/s2_sfr.pdf  used on input line 961.
+Package pdftex.def Info: figures/s2_sfr.pdf  used on input line 967.
 (pdftex.def)             Requested size: 239.00558pt x 85.7475pt.
-<figures/s2_ts.pdf, id=511, 828.98674pt x 299.18964pt>
+<figures/s2_ts.pdf, id=557, 828.98674pt x 299.18964pt>
 File: figures/s2_ts.pdf Graphic file (type pdf)
 <use figures/s2_ts.pdf>
-Package pdftex.def Info: figures/s2_ts.pdf  used on input line 961.
+Package pdftex.def Info: figures/s2_ts.pdf  used on input line 967.
 (pdftex.def)             Requested size: 239.00558pt x 86.25601pt.
 
-Overfull \vbox (9.16602pt too high) detected at line 961
+Overfull \vbox (9.16602pt too high) detected at line 967
  []
 
-[34
+[41
 
- <./figures/s2_sfr.pdf> <./figures/s2_ts.pdf>] [35
+ <./figures/s2_sfr.pdf> <./figures/s2_ts.pdf>] [42
 
 ]
 \tf@nav=\write7
@@ -2014,13 +2094,13 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
 Package rerunfilecheck Info: File `intro.out' has not changed.
-(rerunfilecheck)             Checksum: E646A61A9FCD4FF0120306D028F8AE21;1898.
+(rerunfilecheck)             Checksum: 5690AA083E5CB17446C72F6105A70F53;1898.
  ) 
 Here is how much of TeX's memory you used:
- 28556 strings out of 474222
- 562520 string characters out of 5748733
- 1937975 words of memory out of 5000000
- 50155 multiletter control sequences out of 15000+600000
+ 28589 strings out of 474222
+ 562973 string characters out of 5748733
+ 1938975 words of memory out of 5000000
+ 50174 multiletter control sequences out of 15000+600000
  576826 words of font info for 101 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,21n,123p,516b,924s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -2046,10 +2126,10 @@ onts/type1/public/mathabx-type1/matha9.pfb></usr/share/texlive/texmf-dist/fonts
 e1/public/mathabx-type1/mathx10.pfb></usr/share/texmf/fonts/type1/public/cm-sup
 er/sfss0700.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0800.pfb></us
 r/share/texmf/fonts/type1/public/cm-super/sfss0900.pfb>
-Output written on intro.pdf (35 pages, 40558434 bytes).
+Output written on intro.pdf (42 pages, 40567559 bytes).
 PDF statistics:
- 712 PDF objects out of 1000 (max. 8388607)
- 447 compressed objects within 5 object streams
- 81 named destinations out of 1000 (max. 500000)
+ 762 PDF objects out of 1000 (max. 8388607)
+ 490 compressed objects within 5 object streams
+ 95 named destinations out of 1000 (max. 500000)
  368 words of extra memory for PDF output out of 10000 (max. 10000000)
 
