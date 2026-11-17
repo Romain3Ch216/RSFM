@@ -71,7 +71,6 @@ Python installation
 
 
 1. Install Miniconda (all platforms)
-====================================
 
 Download and install Miniconda: https://www.anaconda.com/docs/getting-started/installation
 
@@ -85,7 +84,6 @@ After installation, open:
 - **macOS / Linux:** your terminal (Terminal.app on macOS).
 
 2. Create a virtual environment
-===============================
 
 In your terminal, run (see the conda environments guide: https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html):
 
@@ -94,12 +92,10 @@ In your terminal, run (see the conda environments guide: https://docs.conda.io/p
    conda create --name ucathens
 
 3. Download requirements.txt
-============================
 
 Download the file ``requirements.txt`` at https://fichiers.numerique.gouv.fr/explorer/items/c34458d1-a27c-459f-ab82-e4abfb75281d and place it in your project folder.
 
 4. Go to your project folder
-============================
 
 .. code-block:: bash
 
@@ -111,7 +107,6 @@ Download the file ``requirements.txt`` at https://fichiers.numerique.gouv.fr/exp
 Tip: you can type ``cd `` then drag and drop the folder into the terminal window (works on Windows, macOS and Linux).
 
 5. Install the dependencies
-===========================
 
 Still in your terminal, run:
 
@@ -123,4 +118,4 @@ Still in your terminal, run:
 - **Windows:** if ``conda activate`` is not recognized, first run ``conda init``, close and reopen the Anaconda Prompt, then try again.
 - **macOS / Linux:** if ``conda activate`` is not recognized, first run ``conda init`` (or ``source ~/miniconda3/bin/activate``), close and reopen the terminal, then try again.
 
-Your prompt should now show ``(ucathens)`` before the command line, confirming the environment is active.
+Your terminal should now show ``(ucathens)`` before the command line, confirming the environment is active.
