@@ -70,7 +70,7 @@ Python installation
 -------------------
 
 
-1. Install Miniconda (all platforms)
+1. **Install Miniconda (all platforms)**
 
 Download and install Miniconda: https://www.anaconda.com/docs/getting-started/installation
 
@@ -83,7 +83,7 @@ After installation, open:
 - **Windows:** the *Anaconda Prompt (miniconda3)* (or a terminal if you added conda to PATH).
 - **macOS / Linux:** your terminal (Terminal.app on macOS).
 
-2. Create a virtual environment
+2. **Create a virtual environment**
 
 In your terminal, run (see the conda environments guide: https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html):
 
@@ -91,11 +91,11 @@ In your terminal, run (see the conda environments guide: https://docs.conda.io/p
 
    conda create --name ucathens
 
-3. Download requirements.txt
+3. **Download requirements.txt**
 
 Download the file ``requirements.txt`` at https://fichiers.numerique.gouv.fr/explorer/items/c34458d1-a27c-459f-ab82-e4abfb75281d and place it in your project folder.
 
-4. Go to your project folder
+4. **Go to your project folder**
 
 .. code-block:: bash
 
@@ -106,7 +106,7 @@ Download the file ``requirements.txt`` at https://fichiers.numerique.gouv.fr/exp
 
 Tip: you can type ``cd `` then drag and drop the folder into the terminal window (works on Windows, macOS and Linux).
 
-5. Install the dependencies
+5. **Install the dependencies**
 
 Still in your terminal, run:
 
