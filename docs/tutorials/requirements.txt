@@ -1,5 +1,9 @@
-numpy=2.5.3
-rasterio=1.5.2
-matplotlib=3.11.2
-openeo=0.52.0
+numpy==2.5.3
+rasterio==1.5.2
+matplotlib==3.11.2
+openeo==0.52.0
 pandas
+pyyaml
+pyshp
+scipy
+tqdm

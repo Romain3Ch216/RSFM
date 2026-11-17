@@ -85,11 +85,14 @@ After installation, open:
 
 2. **Create a virtual environment**
 
-In your terminal, run (see the conda environments guide: https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html):
+In your terminal, run:
 
 .. code-block:: bash
 
-   conda create --name ucathens
+   conda create -n ucathens python=3.14.8
+
+
+See the conda environments guide for further details: https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html.
 
 3. **Download requirements.txt**
 
