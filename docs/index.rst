@@ -94,9 +94,9 @@ In your terminal, run:
 
 See the conda environments guide for further details: https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html.
 
-3. **Download requirements.txt**
+3. **Download the requirements.txt**
 
-Download the file ``requirements.txt`` at https://fichiers.numerique.gouv.fr/explorer/items/c34458d1-a27c-459f-ab82-e4abfb75281d and place it in your project folder.
+Download the file ``requirements.txt`` in the `project` folder at https://fichiers.numerique.gouv.fr/explorer/items/c34458d1-a27c-459f-ab82-e4abfb75281d and place it in your project folder.
 
 4. **Go to your project folder**
 
