@@ -50,6 +50,7 @@ Lectures
 ----------
 
 - `Introduction to remote sensing and radiative transfer modeling <https://raw.githubusercontent.com/Romain3Ch216/RSFM/main/docs/lectures/introduction_optical_remote_sensing/intro.pdf>`_
+- `Tree dieback detection from multispectral satellite image time series <https://raw.githubusercontent.com/Romain3Ch216/RSFM/main/docs/lectures/tree_dieback_detection/tree_dieback_detection.pdf>`_
 
 .. toctree::
    :caption: Tutorials
