@@ -11,4 +11,6 @@ def apply_ndvi(raster_dst: Dict, preprocess: Callable = lambda x: x, eps: float 
     Returns:
         an array of NDVI values.
     """
-    raise NotImplementedError
+    B08 = preprocess(raster_dst['B08'].read(1))
+    B04 = preprocess(raster_dst['B04'].read(1))
+    return (B08-B04)/(B08+B04+eps)
